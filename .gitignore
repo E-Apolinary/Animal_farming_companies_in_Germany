@@ -1,1 +1,33 @@
 .venv/
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local databases
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Downloaded geographic datasets
+*.osm.pbf
+*.osm
+*.shp
+*.gpkg
+
+# Saarland discovery pilot scripts
+scripts/02_discover_companies.py
+scripts/02_discover_companies_local.py
+scripts/Main_notebook.ipynb
+
+# Temporary and processed research data
+data/processed/website_candidates.csv
+data/processed/website_verification.csv
+
+# Temporary files
+*.tmp
+*.log

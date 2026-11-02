@@ -7,7 +7,7 @@ from pathlib import Path
 # ==========================================
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-DB_PATH = BASE_DIR / "data" / "database" / "animal_farming_germany.db"
+DB_PATH = BASE_DIR / "data" / "database" / "animal_farming_germany_v2.db"
 
 DB_PATH.parent.mkdir(parents=True, exist_ok=True)
 
