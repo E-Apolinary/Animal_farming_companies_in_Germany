@@ -1,0 +1,103 @@
+﻿discovery_id,company,classification,direct_keywords,indirect_keywords,crop_keywords,evidence_urls,pages_analyzed,status,enriched_at
+236,365FarmNet GmbH,unknown,,,,,1,success,2026-11-05T12:41:55.767524+00:00
+239,AGCO Deutschland GmbH,indirect,,forage harvesting,combine harvester,https://www.agcocorp.com/us/en/home/brands-and-solutions/fendt.html,4,success,2026-11-05T12:42:05.287413+00:00
+246,ARGO GmbH,unknown,,,,,1,success,2026-11-05T12:42:23.437381+00:00
+248,AUTOKÜHLER GmbH & Co. KG,unknown,,,,,4,success,2026-11-05T12:42:46.536844+00:00
+241,Agria-Werke GmbH,unknown,,,bodenbearbeitung,https://agria.de/de/home | https://agria.de/de/anwendungen | https://agria.de/de/anwendungen/gruenflaechenpflege | https://agria.de/de/anwendungen/gruenflaechenpflege/mulchen,4,success,2026-11-05T12:42:14.873839+00:00
+325,Alfred Kärcher SE & Co. KG,unknown,,,,,4,success,2026-11-05T12:51:02.026649+00:00
+243,Altek GmbH,unknown,,,pflanzenschutztechnik,https://www.altek-gmbh.de/startseite.html,2,success,2026-11-05T12:42:19.818262+00:00
+247,AriensCo GmbH,unknown,,,,,4,success,2026-11-05T12:42:37.609538+00:00
+252,BONDIOLI & PAVESI GmbH Deutschland,unknown,,,combine harvester,https://www.bondioli-pavesi.com/de/applicazioni,3,success,2026-11-05T12:43:39.496387+00:00
+255,BPW Bergische Achsen KG,unknown,,,,,4,success,2026-11-05T12:44:05.478833+00:00
+256,BUCHER HYDRAULICS GmbH,unknown,,,,,4,success,2026-11-05T12:44:14.022194+00:00
+250,Beinlich Agrarpumpen und -maschinen GmbH,unknown,,,,,4,success,2026-11-05T12:43:12.505633+00:00
+253,Bosch Rexroth AG,unknown,,,,,4,success,2026-11-05T12:43:48.542947+00:00
+254,Bosch Rexroth AG,unknown,,,,,4,success,2026-11-05T12:43:56.675820+00:00
+262,CLAAS E-Systems GmbH,unknown,,,,,4,success,2026-11-05T12:44:39.745248+00:00
+267,CNH Industrial Deutschland GmbH,unknown,,,,,1,success,2026-11-05T12:44:52.770022+00:00
+264,Claas Industrietechnik GmbH,unknown,,,,,4,success,2026-11-05T12:44:50.148746+00:00
+268,ContiTech Deutschland GmbH,unknown,,,,,4,success,2026-11-05T12:45:05.125225+00:00
+275,DEUTZ AG,unknown,,,,,4,success,2026-11-05T12:45:33.615964+00:00
+276,DKE Data GmbH & Co. KG,direct,livestock farming,,crop protection,https://agrirouter.com/en/solutions,3,success,2026-11-05T12:45:46.343140+00:00
+269,Daimler Truck AG Mercedes-Benz Werk Wörth,unknown,,,,,4,success,2026-11-05T12:45:12.904079+00:00
+279,ESM Ennepetaler Schneid- und Mähtechnik GmbH & Co. KG,unknown,,,,,4,success,2026-11-05T12:46:13.656420+00:00
+281,FARESIN Deutschland GmbH Steinbach b. R.,unknown,,,,,1,success,2026-11-05T12:46:16.223314+00:00
+286,FRITZMEIER Systems GmbH,unknown,,,,,1,success,2026-11-05T12:46:39.101086+00:00
+282,Fliegl Agrartechnik GmbH,unknown,,,,,1,success,2026-11-05T12:46:19.646313+00:00
+278,Franz Eisele & Söhne GmbH & Co. KG,unknown,,,,,4,success,2026-11-05T12:46:02.564201+00:00
+284,Freudenberg FST GmbH,unknown,,,,,4,success,2026-11-05T12:46:32.572958+00:00
+285,Frielinghaus GmbH,unknown,,,,,1,success,2026-11-05T12:46:36.458017+00:00
+289,GLORIA Haus- und Gartengeräte GmbH,unknown,,,,,4,success,2026-11-05T12:46:48.679686+00:00
+291,GRAMMER AG,unknown,,,,,4,success,2026-11-05T12:47:06.915681+00:00
+370,Gebr. Tigges GmbH & Co. KG,unknown,,,bodenbearbeitung,http://www.tigges.com/,2,success,2026-11-05T12:55:03.224279+00:00
+277,Gerhard Dücker GmbH & Co.KG,unknown,,,,,4,success,2026-11-05T12:45:54.274681+00:00
+290,Graepel Löningen GmbH & Co. KG,unknown,,,,,4,success,2026-11-05T12:46:57.700127+00:00
+292,Grasdorf GmbH,unknown,,,,,2,success,2026-11-05T12:47:37.061794+00:00
+293,Grimme Landmaschinenfabrik SE & Co. KG,unknown,,,,,1,success,2026-11-05T12:47:42.383776+00:00
+294,Güttler GmbH,crop_focused,,,bodenbearbeitung | pflanzenbau,https://guttler.org/ | https://guttler.org/produkte/ | https://guttler.org/produkte/?kategorie=frontgeraete | https://guttler.org/produkte/?kategorie=anbauwalzen,4,success,2026-11-05T12:47:51.658012+00:00
+296,HARDI GmbH,unknown,,,crop protection,https://hardi.com/en/solutions/booms/twin-force,4,success,2026-11-05T12:48:14.867881+00:00
+297,HJS Emission Technology GmbH & Co. KG,unknown,,,,,4,success,2026-11-05T12:48:26.633001+00:00
+295,Hako GmbH,unknown,,,,,4,success,2026-11-05T12:47:59.461955+00:00
+382,Hans Wanner GmbH Maschinen- und Fahrzeugbau,unknown,,,pflanzenschutztechnik,https://wanner-maschinenbau.de/,1,success,2026-11-05T12:59:44.543319+00:00
+270,Herbert Dammann GmbH Insolvent Pflanzenschutztechnik,unknown,,,pflanzenschutztechnik,https://www.dammann-technik.de/ | https://www.dammann-technik.de/produkte/ | https://www.dammann-technik.de/produkte/pflanzenschutztechnik/ | https://www.dammann-technik.de/produkte/pflanzenschutztechnik/anhaengespritzen/,4,success,2026-11-05T12:45:21.452199+00:00
+304,INTER CONTROL Hermann Köhler Elektrik GmbH & Co. KG,unknown,,,,,4,success,2026-11-05T12:48:48.136509+00:00
+305,INTERKAT Catalyst GmbH,unknown,,,,,4,success,2026-11-05T12:49:00.324638+00:00
+306,ISEKI-Maschinen GmbH,unknown,,,bodenbearbeitung,https://www.iseki.de/,4,success,2026-11-05T12:49:09.977286+00:00
+303,InMach Intelligente Maschinen GmbH,unknown,,,,,2,success,2026-11-05T12:48:36.437360+00:00
+307,Isringhausen GmbH & Co. KG,unknown,,,,,4,success,2026-11-05T12:49:18.437537+00:00
+309,JCB Deutschland GmbH,unknown,,,,,4,success,2026-11-05T12:49:38.196789+00:00
+310,Jenz GmbH Maschinen- und Fahrzeugbau,unknown,,,,,4,success,2026-11-05T12:49:47.460561+00:00
+272,John Deere GmbH & Co. KG,unknown,,,,,1,success,2026-11-05T12:45:24.888343+00:00
+369,Julius Tielbürger GmbH & Co.KG Maschinenfabrik,unknown,,,,,2,success,2026-11-05T12:54:59.694720+00:00
+312,Jäkel GmbH & Co. KG Maschinenmesserfabri,unknown,,,,,3,success,2026-11-05T12:49:53.455299+00:00
+300,Kalkwerk Hufgard GmbH,unknown,,,,,1,success,2026-11-05T12:48:28.556733+00:00
+317,Kramer-Werke GmbH,unknown,,,,,1,success,2026-11-05T12:50:05.449930+00:00
+318,Krampe Fahrzeugbau GmbH,unknown,,,,,4,success,2026-11-05T12:50:13.096628+00:00
+321,Kubota Deutschland GmbH,unknown,,,,,2,success,2026-11-05T12:50:40.085378+00:00
+324,Kverneland Group Distribution GmbH,unknown,,,,,4,success,2026-11-05T12:50:53.712000+00:00
+323,Kverneland Group Soest GmbH,unknown,,,,,4,success,2026-11-05T12:50:47.236659+00:00
+326,Kärcher Municipal GmbH,unknown,,,,,4,success,2026-11-05T12:51:12.173636+00:00
+328,Köppl GmbH Motor- und Gerätefabrik,unknown,,,,,1,success,2026-11-05T12:51:13.842819+00:00
+329,LACOS GmbH,unknown,,,pflanzenschutztechnik,https://www.lacos.eu/produkte/pflanzenschutzspritze,4,success,2026-11-05T12:51:25.452599+00:00
+332,LEMKEN GmbH & Co. KG,crop_focused,,,crop protection | seed drilling | soil cultivation,https://lemken.com/en-en/ | https://lemken.com/en-en/agricultural-machines/iqblue/produkte | https://lemken.com/en-en/agricultural-machines | https://lemken.com/en-en/agricultural-machines/cropcare/application-technology-for-liquids,4,success,2026-11-05T12:51:35.367982+00:00
+251,Ludwig Bergmann GmbH Maschinenfabrik,unknown,,,,,4,success,2026-11-05T12:43:26.886159+00:00
+338,MANN+HUMMEL GmbH,direct,schweinehaltung | tierhaltung,,,https://www.mann-hummel.com/de/filtrationsanwendungen/maschinenfilter-heavy-duty.html | https://www.mann-hummel.com/de/filtrationsanwendungen/maschinenfilter-heavy-duty/landmaschinen-filter.html,4,success,2026-11-05T12:51:44.421033+00:00
+342,MESTO Spritzenfabrik Ernst Stockburger GmbH,unknown,,,,,4,success,2026-11-05T12:51:59.839602+00:00
+319,Maschinenfabrik Bernard Krone GmbH & Co. KG,unknown,,,,,1,success,2026-11-05T12:50:27.815120+00:00
+313,Maschinenfabrik KEMPER GmbH & Co. KG,unknown,,,,,4,success,2026-11-05T12:50:01.788003+00:00
+341,Merlo Deutschland GmbH,unknown,,,,,2,success,2026-11-05T12:51:50.884976+00:00
+346,NOVAG GmbH,unknown,,,,,1,success,2026-11-05T12:52:07.832726+00:00
+348,OSB connagtive GmbH,unknown,,,,,4,success,2026-11-05T12:52:19.295709+00:00
+349,PTx Trimble GmbH,unknown,,,,,4,success,2026-11-05T12:52:32.240551+00:00
+320,Peter Kröger GmbH,unknown,,,,,3,success,2026-11-05T12:50:35.533233+00:00
+351,Rauch Landmaschinenfabrik GmbH,unknown,,,ackerbau,https://rauch.de/ | https://rauch.de/produktsuche.html,2,success,2026-11-05T12:52:38.537296+00:00
+353,Rockinger Agriculture GmbH,unknown,,,,,4,success,2026-11-05T12:52:48.504846+00:00
+358,SCHUMACHER GmbH,unknown,,,,,4,success,2026-11-05T12:53:49.496878+00:00
+359,SEKA Umwelttechnik GmbH,unknown,,,,,4,success,2026-11-05T12:54:03.127194+00:00
+360,SILOKING Mayer Maschinenbau GmbH,unknown,,,,,1,success,2026-11-05T12:54:05.665985+00:00
+361,SOLO Kleinmotoren GmbH,unknown,,,,,1,success,2026-11-05T12:54:07.459900+00:00
+356,Schneider Landmaschinenzentrum GmbH & Co. KG,unknown,,,,,1,success,2026-11-05T12:53:05.920225+00:00
+357,Schumacher Bergische Werke GmbH,unknown,,,,,4,success,2026-11-05T12:53:31.613077+00:00
+362,Sontheim Industrie Elektronik GmbH,unknown,,,,,4,success,2026-11-05T12:54:17.017109+00:00
+363,Spohn + Burkhardt GmbH & Co. KG Elektrotechnische Fabrik,unknown,,,,,4,success,2026-11-05T12:54:25.706267+00:00
+364,Spraying Systems Manufacturing Europe GmbH,unknown,,,,,4,success,2026-11-05T12:54:36.123182+00:00
+257,Th. Buschhoff GmbH & Co.,unknown,,,,,4,success,2026-11-05T12:44:26.308562+00:00
+368,Thomas GmbH,unknown,,,,,4,success,2026-11-05T12:54:56.149345+00:00
+371,Topcon Electronics GmbH,unknown,,,,,4,success,2026-11-05T12:55:11.670702+00:00
+374,VETTER Industrie GmbH,unknown,,,,,4,success,2026-11-05T12:55:27.954372+00:00
+376,VOSS Fluid GmbH,unknown,,,,,4,success,2026-11-05T12:55:46.261783+00:00
+373,Vector Informatik GmbH,unknown,,,,,4,success,2026-11-05T12:55:19.734627+00:00
+375,Vogelsang GmbH & Co. KG,unknown,,,soil cultivation,https://www.vogelsang.info/en | https://www.vogelsang.info/en/segments/biogas/application-areas/solid-matter-feeding | https://www.vogelsang.info/en/segments/industry/application-areas | https://www.vogelsang.info/en/segments/industry/application-areas/ceramic-industry,4,success,2026-11-05T12:55:38.037154+00:00
+377,Väderstad GmbH,unknown,,,seed drilling,https://www.vaderstad.com/,4,success,2026-11-05T12:55:55.348711+00:00
+379,WABCO Fahrzeugsysteme GmbH,unknown,,,,,3,success,2026-11-05T12:59:19.537111+00:00
+383,WEBER-HYDRAULIK GMBH,unknown,,,,,4,success,2026-11-05T12:59:53.580631+00:00
+386,WIKA Alexander Wiegand SE & Co. KG,unknown,,,,,3,success,2026-11-05T13:00:09.323115+00:00
+380,Wacker Neuson SE,unknown,,,,,1,success,2026-11-05T12:59:23.859459+00:00
+381,Walterscheid GmbH,unknown,,,,,4,success,2026-11-05T12:59:36.106641+00:00
+385,Wiedenmann GmbH,unknown,,,,,1,success,2026-11-05T12:59:59.843967+00:00
+365,Wilhelm Stoll Maschinenfabrik GmbH,unknown,,,,,4,success,2026-11-05T12:54:44.583995+00:00
+387,Yokohama TWS Germany GmbH,unknown,,,,,1,success,2026-11-05T13:00:12.545290+00:00
+388,ZF Friedrichshafen AG,unknown,,,,,4,success,2026-11-05T13:00:22.276127+00:00
+389,ZF Friedrichshafen AG,unknown,,,,,4,success,2026-11-05T13:00:30.891212+00:00
+249,b-plus mobile control GmbH,unknown,,,,,4,success,2026-11-05T12:42:57.000975+00:00
+308,iwis antriebssysteme GmbH & Co. KG,unknown,,,,,4,success,2026-11-05T12:49:29.012150+00:00
