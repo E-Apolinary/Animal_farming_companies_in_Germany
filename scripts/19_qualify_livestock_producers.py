@@ -30,7 +30,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-REPORT_PATH = PROCESSED_DIR / "livestock_qualification.csv"
+REPORT_PATH = PROCESSED_DIR / "livestock_producer_qualification.csv"
 SOURCE_NAME = "IMA Livestock Production Directory"
 
 UNKNOWN_SECTOR = "Livestock Farming - Relevance Unverified"

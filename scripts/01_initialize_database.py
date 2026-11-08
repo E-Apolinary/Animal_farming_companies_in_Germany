@@ -1,7 +1,7 @@
 """
 STEP 01: Create the project database.
 
-Runs sql/schema.sql against data/database/animal_farming_germany_v2.db.
+Runs sql/schema.sql against data/database/animal_farming_germany.db.
 The schema only uses CREATE TABLE IF NOT EXISTS / INSERT OR IGNORE, so
 running this step on an existing database is safe: it adds missing
 tables and never touches existing data.

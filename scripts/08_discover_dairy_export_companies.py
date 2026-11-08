@@ -23,7 +23,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-CSV_PATH = RAW_DIR / "dairy_export_union_companies.csv"
+CSV_PATH = RAW_DIR / "dairy_export_companies.csv"
 SOURCE_URL = "https://www.export-union.de/de/milchexporte/exportmolkereien"
 SOURCE_NAME = "Export-Union Dairy Member Directory"
 SECTOR = "Dairy Value Chain - Subsector Unverified"

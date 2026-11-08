@@ -18,7 +18,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-CSV_PATH = RAW_DIR / "bvws_meat_processing_companies.csv"
+CSV_PATH = RAW_DIR / "meat_processing_companies.csv"
 SOURCE_URL = "https://www.wurstproduzenten.de/verband/alle-mitglieder"
 SOURCE_NAME = "BVWS Meat Processing Member Directory"
 SECTOR = "Meat Processing and Manufacturing"

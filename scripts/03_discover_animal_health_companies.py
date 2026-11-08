@@ -20,7 +20,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-CSV_PATH = RAW_DIR / "bft_companies.csv"
+CSV_PATH = RAW_DIR / "animal_health_companies.csv"
 SOURCE_URL = "https://www.bft-online.de/der-verband/mitglieder"
 SOURCE_NAME = "BfT Member Directory"
 SECTOR = "Animal Health & Veterinary Pharmaceuticals"

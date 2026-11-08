@@ -48,7 +48,7 @@ flowchart LR
 
 | Step | Script | What it does |
 |---|---|---|
-| 01 | `01_init_database.py` | Create the SQLite database from [sql/schema.sql](sql/schema.sql) |
+| 01 | `01_initialize_database.py` | Create the SQLite database from [sql/schema.sql](sql/schema.sql) |
 | 02–15 | `NN_discover_*.py` | One script per source: download, parse, validate, save to CSV and the staging table |
 | 16–17 | `16_classify_…`, `17_enrich_…` | Read machinery makers' websites and label them by livestock relevance (keywords) |
 | 18 | `18_enrich_dairy_export_contacts.py` | Fill missing contact details from company profile pages |

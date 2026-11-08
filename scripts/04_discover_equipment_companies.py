@@ -24,7 +24,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-CSV_PATH = RAW_DIR / "vdma_landtechnik_companies.csv"
+CSV_PATH = RAW_DIR / "equipment_companies.csv"
 SOURCE_URL = "https://www.vdma.eu/de/mitglieder-landtechnik"
 SOURCE_NAME = "VDMA Landtechnik Member Directory"
 SECTOR = "Agricultural Machinery - Relevance Unverified"

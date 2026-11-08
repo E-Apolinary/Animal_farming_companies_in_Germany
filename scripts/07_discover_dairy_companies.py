@@ -18,7 +18,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-CSV_PATH = RAW_DIR / "miv_dairy_companies.csv"
+CSV_PATH = RAW_DIR / "dairy_companies.csv"
 SOURCE_URL = "https://milchindustrie.de/ueber-uns/unsere-mitglieder/"
 SOURCE_NAME = "MIV Milchindustrie-Verband Member Directory"
 

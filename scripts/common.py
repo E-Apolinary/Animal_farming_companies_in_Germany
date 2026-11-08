@@ -26,7 +26,7 @@ from bs4 import BeautifulSoup
 # --------------------------------------------------
 
 ROOT = Path(__file__).resolve().parents[1]
-DB_PATH = ROOT / "data/database/animal_farming_germany_v2.db"
+DB_PATH = ROOT / "data/database/animal_farming_germany.db"
 RAW_DIR = ROOT / "data/raw"
 PROCESSED_DIR = ROOT / "data/processed"
 SCHEMA_PATH = ROOT / "sql/schema.sql"
@@ -439,7 +439,7 @@ def connect():
     """Open the project database; it must already exist (step 01)."""
     if not DB_PATH.is_file():
         raise FileNotFoundError(
-            f"Database not found: {DB_PATH}. Run 01_init_database.py first."
+            f"Database not found: {DB_PATH}. Run 01_initialize_database.py first."
         )
 
     conn = sqlite3.connect(DB_PATH)

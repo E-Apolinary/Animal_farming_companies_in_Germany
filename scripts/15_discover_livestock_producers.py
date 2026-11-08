@@ -27,7 +27,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-CSV_PATH = RAW_DIR / "livestock_production_companies.csv"
+CSV_PATH = RAW_DIR / "livestock_producers.csv"
 SOURCE_URL = "https://ima-agrar.de/einsichten-in-die-tierhaltung/projektbetriebe"
 SOURCE_NAME = "IMA Livestock Production Directory"
 SECTOR = "Livestock Farming - Relevance Unverified"

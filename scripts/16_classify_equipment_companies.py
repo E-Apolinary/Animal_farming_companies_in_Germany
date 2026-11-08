@@ -28,7 +28,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-CSV_PATH = PROCESSED_DIR / "vdma_classification.csv"
+CSV_PATH = PROCESSED_DIR / "equipment_classification.csv"
 SOURCE_NAME = "VDMA Landtechnik Member Directory"
 
 # Plain research user agent, so site owners can address us in robots.txt.

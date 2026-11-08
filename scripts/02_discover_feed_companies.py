@@ -5,7 +5,7 @@ Source: DVT (Deutscher Verband Tiernahrung) member directory.
 
 Each member is an <h3> heading followed by paragraphs: the first one is
 the address, the rest describe the company. German members are kept
-and saved to data/raw/dvt_companies.csv and to discovery_candidates.
+and saved to data/raw/feed_companies.csv and to discovery_candidates.
 """
 
 import re
@@ -22,7 +22,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-CSV_PATH = RAW_DIR / "dvt_companies.csv"
+CSV_PATH = RAW_DIR / "feed_companies.csv"
 SOURCE_URL = "https://www.dvtiernahrung.de/ueber-uns/unsere-mitglieder"
 SOURCE_NAME = "DVT Member Directory"
 SECTOR = "Animal Feed and Nutrition"

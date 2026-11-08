@@ -23,7 +23,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-CSV_PATH = RAW_DIR / "brs_companies.csv"
+CSV_PATH = RAW_DIR / "cattle_and_pig_companies.csv"
 SOURCE_URL = "https://www.rind-schwein.de/mitglieder/de/list/"
 SOURCE_NAME = "BRS Member Directory"
 SECTOR = "Cattle and Pig Value Chain - Subsector Unverified"

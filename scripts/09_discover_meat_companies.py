@@ -19,7 +19,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-CSV_PATH = RAW_DIR / "vdf_meat_companies.csv"
+CSV_PATH = RAW_DIR / "meat_companies.csv"
 SOURCE_URL = "https://www.v-d-f.de/mitglieder-uebersicht/mitglieder/mg-schlachtung"
 SOURCE_NAME = "VDF Meat Industry Member Directory - Slaughtering"
 SECTOR = "Meat Processing and Slaughtering"

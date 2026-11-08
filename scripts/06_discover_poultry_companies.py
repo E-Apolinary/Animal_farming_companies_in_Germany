@@ -19,7 +19,7 @@ from common import (
 # CONFIGURATION
 # --------------------------------------------------
 
-CSV_PATH = RAW_DIR / "ngw_poultry_companies.csv"
+CSV_PATH = RAW_DIR / "poultry_companies.csv"
 SOURCE_URL = "https://www.ngw-landesverband.de/mitglieder"
 SOURCE_NAME = "NGW Poultry Member Directory"
 SECTOR = "Poultry Value Chain - Subsector Unverified"
