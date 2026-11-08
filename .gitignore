@@ -1,11 +1,11 @@
-.venv/
 # Python environments
 .venv/
 venv/
 __pycache__/
 *.pyc
+.ipynb_checkpoints/
 
-# Local databases
+# Local database (rebuilt by the pipeline; the CSVs in data/ are committed)
 *.db
 *.db-journal
 *.db-wal
@@ -19,10 +19,8 @@ __pycache__/
 *.shp
 *.gpkg
 
-# Saarland discovery pilot scripts
-scripts/02_discover_companies.py
-scripts/02_discover_companies_local.py
-scripts/Main_notebook.ipynb
+# Local archive: abandoned Saarland pilot and superseded drafts
+archive/
 
 # Temporary and processed research data
 data/processed/website_candidates.csv
