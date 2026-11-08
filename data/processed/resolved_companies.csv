@@ -1,0 +1,962 @@
+﻿company_id,company_name,city,website,sectors,sources
+COMP_6fb4ee7b8639d8a877d7,"""mago"" Kohn + Kempkes GmbH & Co. KG Wurst- & Fleischwaren",Berlin,http://www.mago-wurst.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_c2a88602ad4f632646c7,365FarmNet GmbH,Berlin,http://www.365farmnet.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_5945c84ccfe4876e6d37,A. Saumweber GmbH,Rosenheim,http://www.danone.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_a60e0756cc5153bfe254,A.F.G. Allgäu Fleisch GmbH,Kempten (Allgäu),,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_7317c152c91a5f042c37,A.G. Stalltechnik & Genetik GmbH,Heede/Ems,http://www.ag-stalltechnik-genetik.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_418ba668eedb4413279c,A.G.H. Agrarhandelsges. m.b.H.,Mindelheim,http://www.agh-weikmann.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_b9e265c855d9a8ee2c25,ADDCON GmbH,Bitterfeld-Wolfen,http://www.addcon.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_3f2bf44840cca9b53772,AG Gelbvieh als Fleischrind beim Rinderzuchtverband Franken e.V.,Würzburg,http://www.rzv-franken.de/gv,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_9c658f4adf7d8176b3bd,AGCO Deutschland GmbH,Marktoberdorf,http://www.agcocorp.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_8c2b437c4904db5df11c,AGCO GmbH,Feucht,http://www.fella.eu/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_7ae024b1d7b5b522288a,AGCO Wolfenbüttel GmbH,Wolfenbüttel,,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ceb250ff60870cea08ef,AGRANA Fruit Germany GmbH,Konstanz,https://de.agrana.com,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_9bcb9a9a090d537642ea,AGRAVIS Futtermittel GmbH,Münster,https://www.agravis.de/de/index.html,Animal Feed and Nutrition | Cattle and Pig Value Chain - Subsector Unverified,DVT Member Directory | BRS Member Directory
+COMP_ca4bf3210a3e6e6ebc89,AGRIAL Deutschland GmbH & Co. KG,Dortmund,http://www.rotkaeppchen.com,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_3194a8f19de666dbd263,AGRIAL Deutschland GmbH & Co. KG Käserei Altenburger Land,Schmölln OT Hartha,http://www.kaeserei-altenburgerland.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_714b35236c5d04ef9b9f,AGROCHEMICA GMBH,Bremen,http://www.agrochemica.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_829908072143c060c82e,AHG Agrarhandelsgesellschaft mbh & Co.,Langenzenn,https://agrarhandelsgesellschaft.de/index.html,Animal Feed and Nutrition,DVT Member Directory
+COMP_d4dbc0db548084c69d01,ALLTECH (Deutschland) GmbH,Nettetal,https://www.alltech.com/deutschland,Animal Feed and Nutrition,DVT Member Directory
+COMP_cfb26f9f0a4de305f334,ALMIL AG,Polling,http://www.almil.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_c17a03d5fcd95666b870,ALMIL AG Allgäuer Alpenmilchwerk,Polling,http://www.almil.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_6e01778a36886e921c5b,AMAZONEN-WERKE H. Dreyer SE & Co. KG,Hasbergen,http://www.amazone.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_f52b90b555278c288041,ANEDO GmbH,Eydelstedt,http://www.anedo.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_320a0186ca978d24046a,ARGO GmbH,Burgoberbach,https://www.argotractors.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_3792cd2661025c1dcf08,ASL GmbH & Co. KG,Südlohn,http://www.asl-gmbh.de/,Animal Feed and Nutrition | Cattle and Pig Value Chain - Subsector Unverified,DVT Member Directory | BRS Member Directory
+COMP_ec5bac4784de9e7dad52,AULBACH GmbH & Co. KG,Hösbach,http://www.aulbach.com,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_220083863e91262f940b,AUTOKÜHLER GmbH & Co. KG,Hofgeismar,http://www.akg-gruppe.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_c4f8057b1d0913238f7d,Abbelen GmbH,Tönisvorst,http://www.abbelen.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_2f3b79148906a146bd5c,Adler Schwarzwald GmbH & Co. KG,Bonndorf,http://www.adlerschwarzwald.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_d6adab721d6de3670770,Agp Agrarproduktgesellschaft mbH Lübesse,Lübesse,https://www.agp-luebesse.de/,Mixed Livestock Production,IMA Livestock Production Directory
+COMP_93f2eb6559172fd5889d,Agrar GmbH Langengrassau,Heideblick,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_554b9e543810a70d9efd,Agrar- und Veterinär - Akademie (AVA),Steinfurt-Burgsteinfurt,http://www.ava1.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_794286144faa4659c83c,AgrarContex GmbH & Co. KG,Freren,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_fe5f6347b482eceafd6f,Agrargenossenschaft Forst eG,Forst,https://www.ag-forst.de,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_95e461b0bde1e5fdda8f,Agrargenossenschaft Wörlitz eG,Oranienbaum-Wörlitz,https://agrar-woerlitz.de/,Dairy Farming,IMA Livestock Production Directory
+COMP_8faadf226ac325e7b016,Agrargenossenschaft Züllsdorf e.G.,Herzberg (Elster OT Züllsdorf),,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_ff42890193c7ae826a5f,Agrarhandelsgesellschaft Salzfurtkapelle mbH & Co. KG,Zörbig / OT Salzfurtkapelle,,Animal Feed and Nutrition,DVT Member Directory
+COMP_878d1066e2fbdb38159d,Agri V Raiffeisen eG,Borken,https://www.agriv.de/,Animal Feed and Nutrition | Livestock Production and Marketing,DVT Member Directory | DRV Livestock and Meat Committee
+COMP_2d33defc9ad25c90117e,Agri-Kontakt Büro Braunschweig,Braunschweig,http://www.agri-kontakt.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_72719104dce3a2b79f8c,AgriVieh GmbH & Co. KG,Sonsbeck,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_157e5b81722352c00ee0,Agria-Werke GmbH,Möckmühl,http://www.agria.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_742762597ca3610761d4,Agrifirm Futtermittel GmbH,Langenfeld,https://www.agrifirm.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_070d1f2a99fbc964e795,Albert Cordts Fleischgroßhandel GmbH & Co. KG,Neuenkirchen,http://www.cordtsfleisch.de/de/,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_76bef3cd62a48edaf863,Alete Kindernahrung GmbH,Polling - Weiding,https://www.aletebewusst.de/,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_96104c4891d1b596e3e8,Alfred Kärcher SE & Co. KG,Winnenden,http://www.kaercher.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ff65261b382825584a80,Alimco AG,Bozen,http://www.alimco.com,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_7299e4ac2366781a0a89,Allerstedter Käserei H. J. Poelmeyer GmbH,Kaiserpfalz,http://www.allerstedter.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_af936921f28ad42df28f,Allgäu Fresh Foods GmbH & Co. KG,Kempten,http://www.allgaeu-fresh-foods.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_9c7713986217e802a9a8,Allgäuer Emmentalerkäserei Leupolz e.G.,Wangen-Leupolz,http://www.kaeserei-leupolz.de/,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_13e79153ee3adcf9d3f4,Alltech Coppens GmbH,Nettetal,https://www.alltechcoppens.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_8326bcf82cc381f01419,Alpavit GmbH & Co. KG,Lauben,http://www.alpavit.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_b656e3a8f17cfe81f8b1,Alpenhain Käsespezialitäten GmbH,Pfaffing,http://www.alpenhain.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_38b7233716fdf5d20560,Alpenrind GmbH,Traunstein,http://www.alpenrind.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_b3f8837938fb79dba040,Altek GmbH,Rottenburg-Hailfingen,http://www.altek-gmbh.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_8f597fa19e1f9148a786,Altenburger Kraftfutterwerk und Getreidehandel (ALKA) GmbH,Altenburg,https://www.alka-lueders.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_8ed5dd71eadf724a2f6e,Altmark-Käserei Uelzena GmbH,Bismark,http://de.uelzena.de/altmark-kaeserei.html,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_22562758ed17f1eb88fb,Altromin Spezialfutter GmbH & Co. KG,Lage,http://www.altromin.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_3a3655411bf8f2d3a4ee,AlzChem Trostberg GmbH,Trostberg,https://www.alzchem.com/de/landwirtschaft/creamino,Animal Feed and Nutrition,DVT Member Directory
+COMP_89f443c801cd91056fd2,Andechser Molkerei Scheitz GmbH,Andechs,https://www.andechser-natur.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_00c5afa903bc186cfd85,Annchen Schmidt e.K.,Hude,https://schmidt-lintel.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_c931336743fa911a388e,ArNoCo GmbH & Co. KG,Nordhackstedt,http://www.arlafoodsingredients.com / www.dmk.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_7b609e73704d66e889b1,Arbeitsgemeinschaft Deutsches Braunvieh,Kempten,http://www.braunvieh.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_4afcd5ac7bf64f6bbccb,Arbeitsgemeinschaft Deutsches Gelbvieh,Würzburg,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_cf6e2e56a2dfe690dbf3,Arbeitsgemeinschaft Süddeutscher Rinderzucht- und Besamungsorganisationen e.V. (ASR),Grub/Poing,http://www.asr-rind.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_4e053231977b74e92530,AriensCo GmbH,Bühlertann,http://www.as-motor.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_42dde2b54ba0fff5c71d,Arla Foods Deutschland GmbH,Düsseldorf,http://www.arlafoods.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_f3447c981a090a7650d9,"Arla Foods Deutschland GmbH
+Niederlassung Pronsfeld",Pronsfeld,http://www.arlafoods.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_bae89c81e2726d4181eb,"Arla Foods Deutschland GmbH
+Niederlassung Upahl",Upahl,http://www.arlafoods.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_39e350514e4f8e2e5b54,Arndt Haller Tierhaltungs KG,Barsinghausen-Landringhausen,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_a1312e74b96ba18c27af,Asam Mangmühle GmbH & Co. KG,Weil/Obb.,,Animal Feed and Nutrition,DVT Member Directory
+COMP_987d4581a847889ca36b,Atlantic Chemicals Trading GmbH,Hamburg,https://www.act.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_6648ee7a3a980decdcdf,Attenberger Fleisch GmbH & Co. KG,München,http://www.attenberger-fleisch.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_1ab2a5a4f0c78ab89776,August Storck KG,Halle (Westfalen),http://www.storck.com/de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_4f04da700f7f109bc583,Auhof Agrar GmbH,Sarow,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_41d650c9ff58d7fa008a,Austing Mischfutterwerk GmbH & Co. KG,Damme,http://www.austing.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_c5ed60b97f7cb821f850,B&K Agrar GmbH,Holdorf,,Animal Feed and Nutrition,DVT Member Directory
+COMP_de130ff14cdd74979029,B. Braun Vet Care GmbH,,https://www.bbraun-vetcare.de/de.html,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_a2b30257466f5ff6bc68,B. Strautmann & Söhne GmbH u. Co. KG Maschinenfabrik,Bad Laer,http://www.strautmann.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_47c05d9b3d91a24bf2aa,BASF SE,Lampertheim,http://www.animal-nutrition.basf.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_d70f61f92002a581019b,BASU Mineralfutter GmbH,Bad Sulza,http://www.basu-mf.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_14369eb0ad19ebf79136,BAT Tiernahrung GmbH & Co. KG,Ratzeburg,http://bat-agrar.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_9f3a0cc89f8c38f6f9fe,BBR Brot- und Backwarenrecycling GmbH,Holdorf,http://www.BBR-Holdorf.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_f33e8d1c2eed88da6df4,BEWITAL agri GmbH & Co. KG,Südlohn-Oeding,http://www.bewital-agri.de/,Animal Feed and Nutrition | Dairy Value Chain - Subsector Unverified,DVT Member Directory | Export-Union Dairy Member Directory
+COMP_5d5c05443cfd17d5c734,BEWITAL petfood GmbH & Co. KG,Südlohn-Oeding,http://www.bewital-petfood.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_b420e80a16fe3fb38bb5,BHZP Erzeugergemeinschaft Nord- West e.G.,Georgsmarienhütte,http://www.bhzp.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_f85f44491edfe72d2a41,BHZP GmbH,Dahlenburg-Ellringen,http://www.bhzp.de/,Cattle and Pig Value Chain - Subsector Unverified | Pig Breeding and Genetics,BRS Member Directory | FBF Pig Breeding Member Directory | Weser-Ems Pig Genetics Partners
+COMP_9d0e5e1e9231f2a83ba1,BK Giulini GmbH,Ladenburg,http://www.icl-pp.com,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_a63e5f2a70ec7642d5d7,BKF - Belziger Kraftfutter GmbH,Belzig,http://bkf-belzig.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_cd9f77fb92f87e245cd3,BMR Schlachthof Garrel GmbH,Garrel,http://www.bmr-garrel.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_d862826999565c15224e,BONDIOLI & PAVESI GmbH Deutschland,Groß-Gerau,https://www.bondioli-pavesi.com/de/node,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_e98ec7f730d2286cc596,BPW Bergische Achsen KG,Wiehl,http://www.bpw.de/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_21c08135d551c33dcabf,BRS e.V.,Bonn,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_a80b6c5eaec11daceb0a,BUCHER HYDRAULICS GmbH,Klettgau,http://www.bucherhydraulics.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_90e70cedfd90c7b04860,Bauern AG Neißetal,Schenkendöbern,https://www.gut-neusacro.de/de/start.html,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_ed0cbbb5898a7a01662b,Bauerngut Fleisch- und Wurstwaren GmbH,Bückeburg,http://www.bauerngut.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_b04a75292eea9d7579bc,BayWa AG,München,http://www.baywa.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_35b8979d727a557df891,Bayer GmbH & Co. KG,Niederwallmenach,http://www.metzgerei-bayer.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_895961f288aa90a8cb5e,Bayerische Milchindustrie eG,Peiting,http://www.bmi-eg.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_70538cecfe8baf048ed7,Bayern Genetik GmbH,Landshut,http://www.fleckvieh.de/,Cattle and Pig Value Chain - Subsector Unverified | Pig Breeding and Genetics,BRS Member Directory | FBF Pig Breeding Member Directory
+COMP_16fafea7bc00a852baaa,Bayern-Genetik GmbH Geschäftsstelle Altenbach,Landshut,http://www.bayern-genetik.de,Cattle Genetics and Reproduction,ASR Cattle Breeding Member Directory
+COMP_c5834eb6e86fc77a9e58,Bayern-Genetik GmbH Geschäftsstelle Grub,Poing – Grub,http://www.bayern-genetik.de,Cattle Genetics and Reproduction,ASR Cattle Breeding Member Directory
+COMP_fc4e4f82aee1cf1d7619,Bayernland eG,Regensburg,http://www.bayernland.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_20337589a40c25bbb33d,"Bayernland eG
+Hauptverwaltung",Nürnberg,http://www.bayernland.de/,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_af7396b6bd468619c1fa,Bayreuther Fleisch GmbH,Bayreuth,http://www.bayreuther-fleisch.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_8ff86933126f5b3aebc7,Bechtel Naturkäsewerk GmbH & Co. KG,"Schwarzenfeld, Oberpfalz",http://www.privatmolkerei-bechtel.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_4075b9de85645bf0530e,Beck GmbH & Co. KG,Neu-Kupfer,http://www.spanferkel-beck.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_60e8f5e61f50019bdc45,Bedford GmbH + Co. KG,Osnabrück,http://www.bedford.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_9b31edb540fce3b7de4d,Beinlich Agrarpumpen und -maschinen GmbH,Ulmen,http://www.beinlich-beregnung.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_efe75088086e6b75cd85,Bel Brands Deutschland GmbH,Aschheim,,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_5e39d1caa2d59fa02419,Bela-Pharm GmbH & Co. KG,,http://www.bela-pharm.com/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_9eb4b66ab0e903c3dfe0,Bell Deutschland GmbH & Co. KG Seevetal,Seevetal,http://www.abraham.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_5ee9f98b7944c7a3aa07,Beratungsdienst Schweinehaltung und Schweinezucht Baden-Württemberg e.V.e.V.,Kupferzell,http://www.schweineberatungsdienst.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_a1fd749cd3dc87c6cd0d,Beratungsring Coppenbrügge-Hannover e.V.,Hameln,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_b0601daca46116cf92b2,Berg + Schmidt GmbH & Co. KG,Hamburg,http://www.berg-schmidt.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_2503c97d64d6b8e375f6,Bergader Privatkäserei GmbH,Waging am See,http://www.bergader.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_34ae095d8933be23a21a,Bergophor GmbH,Kulmbach,http://www.bergophor.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_a23cdf72aa1b9956f4b0,Bergophor-Futtermittelfabrik Dr. Berger GmbH & Co KG,Kulmbach,http://www.bergophor.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_7fb048734b068dde3497,Bergpracht-Milchwerk GmbH & Co. KG,Tettnang,http://www.bergpracht.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_67ae7b9cbf650951cfdc,Berliner KS Fleisch- und Wurstwaren GmbH,Berlin,http://www.sprehe.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_6b3f462d1b48d51e040d,Bernard Matthews Oldenburg GmbH,Oldenburg,http://www.bernard-matthews.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_9b1507389a7071839040,Bernard van Lengerich Maschinenfabrik GmbH & Co. KG,Emsbüren,http://www.bvl-group.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_47e06fffaf5b89dcd629,Bernhard Frenken GmbH Vieh- und Fleischhandel Schlachthof Düren,Düren,,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_1e492c641e0a09fb5928,Bernhard Kreiling GmbH & Co. KG,Bersenbrück,http://www.kreiling.info/,Animal Feed and Nutrition,DVT Member Directory
+COMP_5a84e96ac934b898f956,Berschneider GmbH Fleischspezialitäten Produktion,Valluhn,http://www.berschneider.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_c0da89d0e6f07de29591,Berufsverband Rindermast e. V.,Osnabrück,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_bf62314a024e78a0e8eb,Besamungsgenossenschaft Marktredwitz-Wölsau eG,Markredwitz,https://www.woelsau-genetics.de,Cattle Genetics and Reproduction,ASR Cattle Breeding Member Directory
+COMP_bc55cf811eca2631e82a,Besamungsgenossenschaft Wölsau e.G.,Marktredwitz,http://www.fleckvieh-besamung.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_70494cc7d20105d44b02,Besamungsverein Neustadt a. d. Aisch e.V.,Neustadt a. d. Aisch,http://www.bvn-online.de,Cattle Genetics and Reproduction | Pig Breeding and Genetics,ASR Cattle Breeding Member Directory | FBF Pig Breeding Member Directory
+COMP_844d9f01e050a10fcc55,Besamungsverein Neustadt/Aisch e.V.,Neustadt/Aisch,http://www.bvn-online.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_740084a03df8baa2c602,Besamungsverein Nordschwaben e.V.,Höchstädt,http://www.bv-hoechstaedt.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_b8604bdab5d3ea0d3b76,Big Dutchman AG,Vechta-Calveslage,https://www.bigdutchman.de,Poultry Value Chain - Subsector Unverified,NGW Poultry Member Directory
+COMP_14a90d813c6ff5f1420f,Big Dutchman International GmbH,Vechta,http://www.bigdutchman.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_3d391c2da5ac406aa98f,Binckebanck GmbH,Meldorf,http://www.binckebanck.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_1fa3be06fc06204acd5f,BioAktiv International GmbH,Zeitz (OT Würchwitz),https://www.bioaktiv.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_4b9ae5072506f6f8b945,Biochem Zusatzstoffe Handels- und Produktionsgesellschaft mbH,Lohne,http://www.biochem.net/,Animal Feed and Nutrition,DVT Member Directory
+COMP_d01e654eebb165580040,Biolac-MTS GmbH,Lamspringe,http://www.biolac.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_843454e7d7c75584bc5c,Bischofs Fleischwaren GmbH,Waldfeucht,http://fleischerei-bischofs.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_025c012b250dbeb07465,Bley Fleisch- und Wurstwaren GmbH,Edewecht,http://www.bleybestewurst.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_1168a120da0c0680085c,Bochumer Fleischhandel GmbH & Co. KG,Bochum,http://www.bochumer-fleisch.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_ea5625af2d09db35dc5c,Boehringer Ingelheim Vetmedica GmbH,Ingelheim a. Rhein,https://www.boehringer-ingelheim.com/de/tiergesundheit,Animal Health & Veterinary Pharmaceuticals | Cattle and Pig Value Chain - Subsector Unverified,BfT Member Directory | BRS Member Directory
+COMP_7f88374dd3fda5c0000a,Bonifaz Kohler GmbH,Lindenberg im Allgäu,http://www.bonifaz-kohler.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_a38e843fb11036484c34,Bosch Rexroth AG,Lohr,https://www.boschrexroth.com/de/de/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_6583ae48ecabdf75c822,Brand Qualitätsfleisch GmbH & Co. KG,Lohne,http://www.brand-lohne.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_b0cd1d9ce8eb7d7656e6,Brehop GmbH & Co. KG,Stemwede-Wehdem,http://www.brehop.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_1b7cfcbbfd6c14feb4a5,Breitenburger Milchzentrale eG,Itzehoe,http://www.bmzeg.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_2b30560458106240484a,Breitunger Käserei Ernst Rumpf GmbH,Kaiserpfalz,http://www.harzinger.de/,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_d9fe6ca30a89eab85b51,Brenntag GmbH,Essen,http://www.brenntag.com/de/animalnutrition,Animal Feed and Nutrition,DVT Member Directory
+COMP_5b004221d18a91ceecf8,Bruno Fehse und Sohn GmbH u. Co.,Estorf-Leeseringen,http://www.fehse.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_fa68228a3af90498370a,Buchmann GmbH,Grünkraut-Gullen,http://www.buchmann-gmbh.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_a9ff6899899f36087c01,Bundesarbeitsgemeinschaft Rotes Höhenvieh,Langelsheim,http://www.rotes-hoehenvieh.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_c184800781310bbd9e66,Bundesverband Aubrac Züchter (BAZ),Westerhorn,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_a36b8bd11ad63b4e002f,Bundesverband Blonde d'Aquitaine,Beckum,http://www.blonde-d-aquitaine-deutschland.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_27df7ea6becdbca7ad69,Bundesverband Deutscher Angushalter e.V. c/o RinderAllianz GmbH,Halle,http://www.angus-bundesverband.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_ac69ba00197a4c50a845,Bundesverband Deutscher Galloway-Züchter e.V. (BDG),Hamminkeln,http://www.galloway-deutschland.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_e289cd52a9a5528d7103,Bundesverband Deutscher Herefordzüchter e.V.,Wedemark,http://www.hereford-deutschland.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_4c9ff39b95c0b62c070a,Bundesverband Deutscher Limousinzüchter e. V. (BDL),Bonn,http://www.limousinzuchtverband.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_87a618489e77b4febfe1,Bundesverband Deutscher Pinzgauer Fleischrinderzüchter e.V.,Erndtebrück,http://www.pinzgauerfleischrinderzucht.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_a9e42f9c9af48d070b60,Bundesverband Deutscher Salers-Züchter (BVS),Marienmünster,http://www.salers-rinder.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_7dead7006db017457543,Bundesverband Praktizierender Tierärzte e.V.,Frankfurt,http://www.tieraerzteverband.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_8fc8bc21332dfe8ef196,Bundesverband der Shorthornzüchter und -halter e.V.,Poppenbüll,http://www.deutsches-shorthorn.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_f226562e452d081e3563,Bundesverband der Tierzucht- u. Besamungstechniker (BTB) e.V.,Emmerich am Rhein,http://www.btb-net.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_846f77c25c1d8ae91221,Bärenmarke Vertriebsgesellschaft mbH,Thalfang,http://www.baerenmarke-vertrieb.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_662bec26f4ac13a54e30,Bärmühle Langenhessen GmbH,Werdau/OT Langenhessen,,Animal Feed and Nutrition,DVT Member Directory
+COMP_fcd38964012571a9987f,Bäuerliche Erzeugergemeinschaft Schwäbisch Hall AG,Wolpertshausen,http://www.besh.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_9a737f1d92f7b97cc32e,Börner-Eisenacher GmbH,Göttingen,http://www.boerner-eisenacher.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_2c4bb10a9e858b772c43,Böseler Goldschmaus GmbH & Co. KG,Oldenburg,http://www.goldschmaus.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_16cd5ac8809e95d22ab6,Bürger GmbH & Co. KG,Ditzingen,http://www.buerger.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_896ae125d18b3fd2201b,C. Thywissen GmbH,Neuss,http://www.c-thywissen.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_7fbf83d6f5d3c64da668,CARL GERINGHOFF Vertriebsgesellschaft mbH & Co.,Ahlen,http://www.geringhoff.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_265f52e9c7d527ba0acf,CCE Hanseatic Agri GmbH,Hamburg,http://www.hanseatic-agri.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_7cebf94654f0ecc35b74,CLAAS E-Systems GmbH,Dissen a. T.W.,https://www.claas.de/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_091de860f2afc0c75e8e,CLAAS KGaA mbH,Harsewinkel,http://www.claas.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_27c39b359ab4386d7455,CLAAS Saulgau GmbH,Bad Saulgau,http://www.claas.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_a17f8cefa713b8aa5127,CLAAS Vertriebsgesellschaft mbH,Herzebrock-Clarholz,,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_f5df13c9f534cba244e7,CNH Industrial Deutschland GmbH,Heilbronn,http://www.cnh.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_4fe78058aea0e1bed32a,"CONDETTA GmbH & Co. KG
+Storck Industrie-Service",Halle (Westfalen),http://www.condetta.de,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_6d00f6c3015053d8dbfa,CP-Pharma Handelsgesellschaft mbH,,https://www.cp-pharma.de/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_fb8fcb77eae692688264,CRV Deutschland GmbH,Wasserburg,http://www.crv4all.de/,Cattle Genetics and Reproduction | Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory | ASR Cattle Breeding Member Directory
+COMP_688dac33cd4a7ecffc74,CSB-System SE,Geilenkirchen,http://www.csb.com,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_123ecf56a10812048e44,Caisley International GmbH,Bocholt,https://www.caisley.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_c6997fd646cdce4f1806,Cargill Deutschland GmbH,Düsseldorf,https://www.cargill.de/de/home,Animal Feed and Nutrition,DVT Member Directory
+COMP_9f12bd7605ff93ecdc82,Ceravis Futtermittel GmbH,Rendsburg,http://www.ceravis.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_6aa8ad94e2965fccd1ca,Ceva Tiergesundheit GmbH,Düsseldorf,http://www.ceva.de/,Animal Health & Veterinary Pharmaceuticals | Cattle and Pig Value Chain - Subsector Unverified,BfT Member Directory | BRS Member Directory
+COMP_fc2a34c04affe30dea60,Chevita GmbH,,http://www.chevita.com/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_0ba21e0563ae816ecf66,"Chr. Hansen GmbH, Part of Novonesis Group",Nienburg (Weser),https://www.chr-hansen.com/de,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_29ebeda3cc2c073b3e1f,"Church & Dwight Co., Inc.",Frankfurt am Main,https://ahanimalnutrition.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_a304a2aad3928c6f597d,Claas Global Sales GmbH,Harsewinkel,http://www.claas.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_72b79875fff60bc048c8,Claas Industrietechnik GmbH,Paderborn,http://www.claas-industrietechnik.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_3b10a9325d7dadcb2041,Claas Selbstfahrende Erntemaschinen GmbH,Harsewinkel,http://www.claas.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_6aa7e93845ef5efd67d6,Condio GmbH,Werder/Havel,http://www.condio.com/de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_6c9097464cfab97c8d1b,ContiTech Deutschland GmbH,Hannover,https://www.continental-industry.com/de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_b3598ad35abd43e2361e,Contifleisch GmbH,Erlangen,http://www.unifleisch.de/de/,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_d6929c821ab042da1f69,Cornelius GmbH,Hockenheim-Talhaus,http://www.cornelius-wurstwaren.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_547074c71a4559d32243,Cremilk GmbH,Kappeln,http://www.cremilk.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_ce07a7f95186d3037880,Crespel & Deiters GmbH & Co. KG,Ibbenbüren,https://crespeldeitersgroup.com/de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_42f70f98a8dd146090f3,DEIKRA-FUTTER GmbH,Thannhausen,http://www.deikra-futter.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_f39bc1109019ab77ac35,DELTA Tierernährung GmbH,Teisendorf,http://www.delta-tierernaehrung.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_7187a331e17c3aa95149,DENKAVIT Futtermittel GmbH,Warendorf,http://www.denkavit.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_4f673298b276622b049d,DEUTZ AG,Köln,http://www.deutz.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_9086a955dd2fce56d778,DEWA-Kraftfutterwerk Georg Wagner GmbH & Co. KG,Emskirchen,http://www.dewa-kraftfutter.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_9d02f2e2a4a1569ce0ee,DFE Pharma GmbH & Co. KG,Nörten-Hardenberg,http://www.dfepharma.de/de-DE.aspx,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_610c0e83eb5897a9c937,DKE Data GmbH & Co. KG,Osnabrück,https://my-agrirouter.com/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_14b05a1afc675a2f3af4,DMK Baby,Bremen,http://www.humana-baby.com,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_95f461dab58069f09d30,DMK Baby Strückhausen GmbH,Strückhausen,http://www.humana-baby.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_e9e6043966ecfe024ea2,DMK Deutsches Milchkontor GmbH,Altentreptow,http://www.dmk.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_e408c80a7f4ef1ab45ae,"DMK Deutsches Milchkontor GmbH
+Standort Waren",Waren (Müritz),http://www.dmk.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_bb5f8ead96641d0fd2bc,DMK Eis GmbH,Everswinkel,http://www.dmk-eis.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_cb4ab9966acdace2643c,DOSTOFARM GmbH,Westerstede,http://www.dostofarm.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_bdea08ba6988c6a666a5,DP Supply BV,Beesten,http://www.dp-supply.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_2d03f4d9aaa392db946e,DSM Germany GmbH,Düsseldorf,https://www.dsm-firmenich.com,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_3ca7baaa38e3113c7feb,Daimler Truck AG Mercedes-Benz Werk Wörth,Wörth,https://www.daimlertruck.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_0b56e2874ebd3344c7eb,Dairyfood GmbH,Riedlingen,http://www.lactoprot.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_ea6e257d997e5bee01a6,Danbred,,https://danbred.com/de/,Pig Breeding and Genetics,Weser-Ems Pig Genetics Partners
+COMP_95d3ff55d142836e8c28,Danfoss Power Solutions GmbH & Co OHG,Offenbach,http://powersolutions.danfoss.de/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ce240a740ccd9a4c55f4,Danisco Deutschland GmbH,Niebüll (Schleswig),http://www.iff.com,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_6b9312157adfb0ef13b4,Danish Crown Fleisch GmbH,Essen,http://www.danishcrown.com/de-de/,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_4b71f38a865d884cc4b1,Danish Crown Schlachtzentrum Nordfriesland GmbH,Husum,http://www.danishcrown.com/de-de/,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_37fbcf062b6889d2a65d,Danish Crown Teterower Fleisch GmbH,Teterow,http://www.danishcrown.com/de-de/,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_3b72567ab7f993206a93,Danone Deutschland GmbH,Haar,http://www.danone.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_abd6cf33d9f9984833ff,DeLaval GmbH,Glinde,http://www.delaval.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_2d92457aeae3087356ef,Dechra Veterinary Products Deutschland GmbH,Aulendorf,http://www.dechra.de,Animal Feed and Nutrition | Animal Health & Veterinary Pharmaceuticals,DVT Member Directory | BfT Member Directory
+COMP_0cf9800c8973f23a8281,Demharter Mischfutterwerk GmbH & Co. KG,Schwabmünchen,,Animal Feed and Nutrition,DVT Member Directory
+COMP_84e20c555380ced570b1,Dettmann GmbH,Reppenstedt,https://dettmann-gmbh.de/,Poultry Value Chain - Subsector Unverified,NGW Poultry Member Directory
+COMP_2848ae4b2ebe84280a4b,Deutsche Breeders GmbH,,https://breeders.dk/de/,Pig Breeding and Genetics,Weser-Ems Pig Genetics Partners
+COMP_324e15cdce8d072baf7e,Deutsche Landwirtschafts-Gesellschaft e.V.,Frankfurt,http://www.dlg.org/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_da61d78bb9537b83c4d7,Deutsche Tiernahrung Cremer GmbH & Co. KG,Düsseldorf,https://www.deuka.de/,Animal Feed and Nutrition | Cattle and Pig Value Chain - Subsector Unverified,DVT Member Directory | BRS Member Directory
+COMP_9a9fb4ae6a0c5fcf03c3,Deutsche Vilomix Tierernährung GmbH,Neuenkirchen-Vörden,http://www.vilofoss.com/de,Animal Feed and Nutrition | Cattle and Pig Value Chain - Subsector Unverified | Poultry Value Chain - Subsector Unverified,DVT Member Directory | BRS Member Directory | NGW Poultry Member Directory
+COMP_5b00545e138994e9e4c9,Dexter Verband Deutschland e. V.,Kiel,http://www.dexter-cattle.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_a19db96eaf52230523d2,Die Thüringer Fleisch- und Wurstspezialitäten Rainer Wagner GmbH,Dornheim,http://www.die-thueringer.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_8762211642494283b917,Dietrich Landwehr GmbH,Weyhe-Leeste,,Animal Feed and Nutrition,DVT Member Directory
+COMP_fcf144ed6f5e33686db9,Dopharma Deutschland GmbH,,http://www.dopharma.de/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_c5f12beda58c37255f3b,Dr. August Oetker Nahrungsmittel KG,Bielefeld,http://www.oetker.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_12a08b0a90abe21b86d7,Dr. Eckel Animal Nutrition GmbH & Co. KG,Niederzissen,http://www.dr-eckel.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_c7360c2fec612a13547e,Dr. Hesse Tierpharma GmbH & Co. KG,Hohenlockstedt,http://www.roehnfried-hesse.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_83dea252c331ae2e440e,Dr. Otto Suwelack Nachf. GmbH & Co. KG,Billerbeck,http://www.suwelack.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_a41b39ae373b63e5a3ef,Dr. Ponsold GmbH,Oschersleben,http://www.dr-ponsold.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_1b7652a3e95c59b28ab7,Düringer Fleischkontor GmbH & Co. KG,Loxstedt-Düring,http://www.dueringer-fleischkontor.de/,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_d23b69ab858657fab9c7,E.F.S. Deutschland GmbH,Damme,http://www.efs-deutschland.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_bfd3d93db260496b84ba,E.V.A. GmbH,Oberreute,http://www.simply-v.de/,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_696f1aa0a9a3598643ff,EDEKA Frische-Manufatkur NST GmbH,Rottendorf/Ufr.,,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_c69d324f563c0b450092,EDEKA Südwest Fleisch GmbH Betrieb Blumberg,Blumberg,http://www.schwarzwaldhof.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_57c7dd9478aa721c8b78,EDEKA Südwest Fleisch GmbH Betrieb Rheinstetten,Rheinstetten,http://www.suedwestfleisch.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_1e8accd1cf7230a0967f,EGZH - Erzeugergemeinschaft und Züchtervereinigung für Zucht- und Hybridzuchtschweine in Bayern w.V.,Grub,https://www.egzh-bayern.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_4ce49175cd65d7c9d443,ERLANDER Fleischwaren GmbH & Co. KG,Stendal,http://www.erlander-fleischwaren.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_69d8c422a21e05c90fd2,ESM Ennepetaler Schneid- und Mähtechnik GmbH & Co. KG,Ennepetal,http://www.esm-ept.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_39b420ffbdd66a67b8e1,ETS Mischfutterwerk GmbH & Co. KG,Ladbergen,http://www.ets-mischfutterwerk.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_0563ba385dee10bb86c5,EURO-P Kleindienst GmbH,Bad Schwartau,http://www.europumpen.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_cd8232b2550fe568419d,EURODUNA Rohstoffe GmbH,Barmstedt,http://www.Euroduna.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_a7237b5e51b4b86fca34,EW Nutrition GmbH,Visbek,http://www.ew-nutrition.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_ba09f2b12ab4ccfca407,EXPORT-UNION für Milchprodukte e.V.,Berlin,http://www.export-union.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_ee9596d6dfd3867da49e,Ebbecke Verfahrenstechnik AG,Bruchköbel,http://www.ebbecke-verfahrenstechnik.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_711f03e2f0755c8cb43d,Ecuphar GmbH,,https://www.ecuphar.de/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_2f49b59f3171accaacfe,Edelweiss GmbH & Co. KG,Kempten,http://www.edelweiss-gmbh.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_2e8af5cb184b59bcea9f,Edwin Grasmehr GmbH,Weilburg-Gaudernbach,http://www.grasmehr.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_2fcec87153dcb9eb2968,Egetürk Wurst- und Fleischwarenfabrikation GmbH & Co. KG,Köln,http://www.egetuerk.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_f4fdac308dbd2bfa27ac,Egon Basedahl Aspikspezialitäten GmbH,Reinbek,,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_84652b123d015a8db684,Ehrmann GmbH Oberschönegg im Allgäu,Oberschönegg,http://www.ehrmann.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_3d851171ad311a7ae7a3,Eifeler Fleischwaren Ludwig Babendererde GmbH,Lissendorf,http://www.eifeler.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_8634af8b9dd6380753d8,Elanco Deutschland GmbH,Bad Homburg,http://www.elanco.de/,Animal Feed and Nutrition | Animal Health & Veterinary Pharmaceuticals | Cattle and Pig Value Chain - Subsector Unverified,DVT Member Directory | BfT Member Directory | BRS Member Directory
+COMP_ce977d2d4252c53f5173,Elopak GmbH,Mannheim,http://www.elopak.com/de/,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_5cd65d00f7e93d10e2c5,Elsdorfer Molkerei und Feinkost GmbH,Elsdorf,http://www.elsdorfer.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_9fc28146ff830e11ceec,Erzeugergem. f. Schlachtschweine im Hochstift Paderborn w.V.,Willebadessen-Peckelsheim,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_e411cc811f931ef46eca,Erzeugergemeinschaft Coesfeld w. V. (EGC w.V.),Rinkerode,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_e7c4817ae5e03d5e11ee,Erzeugergemeinschaft Lingen-Ems e.G.,Lingen,http://www.gruenes-zentrum-lingen.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_c37cecaf7df2dfdbb434,Erzeugergemeinschaft Oldenburger Münsterland eG,Bakum,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_fdfae5b46cf22c246a64,Erzeugergemeinschaft Südbayern eG,Pocking,http://www.eg-suedbayern.de,Livestock Production and Marketing | Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering | DRV Livestock and Meat Committee
+COMP_1dc73df562a417d3481c,Erzeugergemeinschaft Südbayern eG - Vilshofen,Vilshofen,http://www.eg-suedbayern.de/,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_6f9e0a94540a39e8ab58,Erzeugergemeinschaft f. Schlachtvieh Grüne Börse Beesten w.V.,Freren-Suttrup,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_654a01b7d4d4bb7e40ab,Erzeugergemeinschaft für Qualitätsvieh Hümmling eG,Lorup,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_f9a7b94eb888e82c59a2,Erzeugergemeinschaft für Qualitätsvieh im Oldenburger Münsterland e.G.,Bakum,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_9dd2d27f0831fae543dc,Erzeugergemeinschaft für Schlachtvieh Schwaförden u. Umgebung,Schwaförden,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_b0557d786b1fcc65405e,Erzeugergemeinschaft für Schlachtvieh im Raum Osnabrück eG,Georgsmarienhütte,http://www.eichenhof.net/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_403cc99dcf56ef6e4550,Erzeugergemeinschaft und Züchtervereinigung für Zucht- und Hybridzuchtschweine in Bayern w.V.,Poing/Grub,http://www.egzh.de/,Pig Breeding and Genetics,FBF Pig Breeding Member Directory
+COMP_1432bee9153ee3be2127,Erzeugerring Münsterland e. V.,Wettringen,http://www.ermuensterland.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_08044acae7698c9ea17d,Erzeugerring Westfalen e.G.,Senden-Bösensell,http://www.erzeugerring.com/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_181838824ffa3b473e6c,Etelser Käsewerk GmbH,Stuhr,http://www.etelser.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_1b8ab0e999c86cef463c,Eurofins GeneScan GmbH,Freiburg,http://www.genescan.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_f77bb701930b221cac72,Evers Viehhandelsgesellschaft mbH,Ahlden (Aller),http://www.evers-gmbh.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_fea85b7af4fdcea5374e,Evonik Operations GmbH,Hanau-Wolfgang,https://www.evonik.com/en/company/businesslines/an.html,Animal Feed and Nutrition,DVT Member Directory
+COMP_dfe5639006c86dfc3f1e,F+S Milchwerk Coesfeld GmbH,Coesfeld,http://www.fs-milchprodukte.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_d3788fa7207eb6ecedc0,FARESIN Deutschland GmbH Steinbach b. R.,Gallmersgarten,http://www.faresin.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_37c2f39ad4e8fcc4c41f,FERAVET GmbH & Co. KG,Eydelstedt,https://www.feravet.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_4f3c235bc7f0f21997dc,FIM Biotech GmbH,Berlin,http://www.fimbio.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_63fc8f5d865d07ec3d57,FORTAN GmbH & Co. KG,Wuppertal,https://fortan.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_00f18c5c23203d59b649,FRITZMEIER Systems GmbH,Aying,http://www.fritzmeier.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_01943449f453bf4e6876,FeedValid GmbH,Hamm,http://www.feedvalid.eu,Animal Feed and Nutrition,DVT Member Directory
+COMP_ab25b3e9364de14cae44,Feinkäserei Sarzbüttel Meiereigenossenschaft Sarzbüttel eG,Sarzbüttel,http://www.kaeserei-sarzbuettel.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_a11c4c18f52d890f6b7e,Firma Karl Mehl Inh. Harald Mehl Fleischgroßhandel GmbH & Co. KG,Bensheim,http://www.landmetzgerei-mehl.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_de535b8d579749ed5abd,Fleischhof Rasting GmbH Betrieb Essen,Essen,http://www.rasting.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_493e8572d567d85014e5,Fleischhof Rasting GmbH Betrieb Meckenheim,Meckenheim,http://www.rasting.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_c5cbc8dc1a43576e4b66,Fleischmarkt Olpe GmbH,Olpe,http://www.fleischmarkt-olpe.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_adf919c06c37686b5780,Fleischrinder-Herdbuch Bonn e.V. (FHB),Bonn,http://www.fhb-bonn.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_1ce66dcac4a22e66d930,Fleischrinderverband Bayern e.V. (FVB),Ansbach,http://www.fvb-bayern.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_f3e9c8bfdfe7e7f55919,Fleischverarbeitung Kinnius GmbH & Co. KG,Osnabrück,http://www.kinnius.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_05e5ff5d783ace075e3e,Fleischvermarktung Fulda-Hünfeld eG,Hünfeld-Nüst,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_86fcabb15f6d7a98ef23,Fleischwerk Hessengut GmbH,Melsungen,,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_c4146c4265d9a85bbc05,Fleischwerk Weißenfels GmbH,Weißenfels,http://www.toennies.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_2db2408d72d03a8650be,Fleischzerlegung Westphal GmbH,Herzebrock-Clarholz,http://www.fleischzerlegung-westphal.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_f9c249b6978f9d147834,Fleming + Wendeln GmbH & Co. KG,Garrel,,Animal Feed and Nutrition,DVT Member Directory
+COMP_2835a04c0da08a8d167e,Fliegl Agrartechnik GmbH,Mühldorf,http://www.fliegl.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_683c8fe80cabeabfe0c2,Fliegl Grünlandtechnik GmbH,Kirchdorf,https://www.fliegl-gruenlandtechnik.de/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_3191b2f6b6d866c86fc0,Food Service Badbergen GmbH & Co. KG,Badbergen,http://www.toennies.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_1a2e79278a0caed2de1e,ForFarmers Langförden GmbH/Deutschlandgruppe,Vechta-Langförden,http://www.forfarmers.eu,Animal Feed and Nutrition,DVT Member Directory
+COMP_d1131b29852003cd949a,Franz Egenberger GmbH Milchwerk,Thierhaupten,http://www.milchwerk-egenberger.de,Animal Feed and Nutrition | Dairy Value Chain - Subsector Unverified,DVT Member Directory | Export-Union Dairy Member Directory
+COMP_041e3a4f7948aac7bde5,Franz Eisele & Söhne GmbH & Co. KG,Sigmaringen,http://www.eisele.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_f97d49e22ab1a18b7ae7,Franz Högemann GmbH,Garrel,https://www.hoegemann.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_1652541367867452d86d,Franz Ostermeier GmbH Vertriebsgesellschaft,Geiselhöring,http://www.ostermeier.com,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_f133d6cb608cbab2f3a3,Franz Wiltmann GmbH & Co. KG Westfälische Fleischwarenfabrik,Versmold,http://www.wiltmann.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_7ec6cf39e82dee9e8fff,Freisl Kraftfutter GmbH,Habach,https://freisl-kraftfutter.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_de66bd3b79e515511bc9,Freudenberg FST GmbH,Weinheim,https://www.fst.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_a02a09350a96559fe2a5,Friedrich Neckermann GmbH,Aub,http://www.neckermann-aub.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_c016538dbad76c37ac4d,Frielinghaus GmbH,Ennepetal,http://www.frielinghaus.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_32989dcd23f8667babcf,FrieslandCampina Germany GmbH,Düsseldorf,http://www.frieslandcampina.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_b80c7637fb0c26186bc1,FrieslandCampina Kievit GmbH,Lippstadt,https://www.kievit.com/en/,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_a0e2727bfcfa40eac014,Frisch-Lamm Metzgereigesellschaft mbH,Zell unter Aichelberg,http://www.frischlamm.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_97cacea844760f50e9ca,Frischpack GmbH,Tuntenhausen,http://www.frischpack.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_9c704498e778f2117281,Fritz Bendel GmbH,Kempten,http://www.f-bendel.de/,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_2c5cb5b0d69ab57c0980,Fude + Serrahn Milchprodukte GmbH & Co. KG,Gransee,http://www.fsmilch.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_66fa3a63a71eeb21d95a,Fulminant GmbH,Stockach,http://www.fulminant-futtermittel.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_76b45f276bc2aef04729,Futtermühle Tock GmbH,Wallerfangen,http://www.tocks.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_dc902563c080f237c96a,Fülscher Fleisch GmbH & Co. KG,Seestermühe,,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_8103bbb3d7dbb956ca72,GEA Farm Technologies GmbH,Bönen,http://www.gea-farmtechnologies.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_2aa2e15d567bfa946618,GELITA Deutschland GmbH,Eberbach,http://www.gelita.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_17369ef4bf69ac7c4b15,GFS-Genossenschaft zur Förderung der Schweinehaltung eG,Ascheberg,http://www.gfs-topgenetik.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_521f05cbfb376a0a4630,GFS-Top-Animal-Service GmbH,Ascheberg,http://www.gfs-topshop.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_ff07780c6dfc166cf599,GGI-Spermex GmbH,Cloppenburg,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_efb5615332fa96e595dd,GHH Business Consult,Mössingen,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_9c24f576a4e8abfb427f,GLORIA Haus- und Gartengeräte GmbH,Witten,http://www.gloriagarten.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_7a3f5513ed66cd00ed13,GOLDSTEIG Käsereien Bayerwald GmbH,Cham,http://www.goldsteig.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_acae0673b1ff7f998ac1,GRAMMER AG,Ursensollen,http://www.grammer.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_e47a53011043b72c4fc2,GS Die Genossenschaft eG,Schneiderkrug,https://www.gs-genossenschaft.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_c6083adee651a69d228c,GS Schmitz GmbH & Co. KG,Köln,http://www.gs-schmitz.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_4726196e1e0e89e02a06,Gebr. Gocksch KG,Herford,,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_2356a96306cc3533ee9a,Gebr. Tigges GmbH & Co. KG,Oelde,http://www.tigges.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_9f56b31c401a09225f5d,Geflügelhof Schönecke GmbH,Neu Wulmstorf,https://www.schoenecke.de,Livestock Farming - Relevance Unverified | Poultry Value Chain - Subsector Unverified,NGW Poultry Member Directory | IMA Livestock Production Directory
+COMP_dbc58c2021bf301a790f,Gelderland Frischwaren-Gesellschaft mbH,Emmerich am Rhein,http://www.gelderland.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_bca5741c1802e6182b3f,Genossenschaft zur Förderung der Schweinehaltung eG,Ascheberg,http://www.gfs-topgenetik.de/,Pig Breeding and Genetics,FBF Pig Breeding Member Directory
+COMP_5b334ebbadb9d1611183,Genovo GmbH,Großenkneten-Ahlhorn,https://www.genovo.de,Poultry Value Chain - Subsector Unverified,NGW Poultry Member Directory
+COMP_eabb59fe602311819b85,Genusswelt Zimmermann GmbH & Co. KG,Thannhausen,http://www.genusswelt-zimmermann.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_6c6e95aeabbcafe354ce,Gerhard Dücker GmbH & Co.KG,Stadtlohn,http://www.duecker.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_73ed217c3b1edd20d8ac,German Genetic,,https://www.german-genetic.de/,Pig Breeding and Genetics,Weser-Ems Pig Genetics Partners
+COMP_82083587955f71ad6046,Gerswalder Mühle GmbH & Co.KG,Prenzlau,http://www.gerswalder-muehle.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_d5c911ca2bfbab5d3232,Gesellschaft für Tierernährung mbH,Wildeshausen,http://www.mineralfutter.de,Animal Feed and Nutrition | Cattle and Pig Value Chain - Subsector Unverified,DVT Member Directory | BRS Member Directory
+COMP_486e505634eaab9cdafb,Gesellschaft zur Erhaltung alter und gefährdeter Haustierrassen e.V. (GEH),Witzenhausen,http://www.g-e-h.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_37197749009be2f01d38,Glanrind-Züchterverband e. V.,Ohmbach,http://www.glanrinder.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_92ea3759005b8f52e7ec,Glocken Beune GmbH & Co. Westfälische Fleischwarenfabrik,Borgholzhausen,http://www.glocken-beune.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_36f0ebc791d7aef4305c,Gläserne Molkerei GmbH,Dechow,http://www.glaeserne-meierei.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_d616af4aa500ff54f3f8,Gmyrek Fleisch- und Wurstwaren GmbH & Co. KG,Gifhorn,http://www.gmyrek.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_4437802fe9cb1e9109c8,Goldschmaus Gruppe,Garrel,http://www.goldschmaus.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_adfdb6df1dee8fbcb203,Graefke's Fleischwaren GmbH,Bienenbüttel,http://www.graefke.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_467544a2d965854ec42d,Graepel Löningen GmbH & Co. KG,Löningen,http://www.graepel.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_24a78c52959f012659cb,Grafschafter Viehvermarktung e.G.,Uelsen,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_48da3ac2f9bde1be17c6,Grasdorf GmbH,Holle,http://www.grasdorf-rad.eu,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_bca310d3adc45bcaf6e9,Greußener Salami- und Schinkenfabrik GmbH,Greußen,http://www.greussener.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_57ffb92afc7734b1e6f8,Grimme Landmaschinenfabrik SE & Co. KG,Damme,http://www.grimme.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_2cb091eff8a60bff2191,Gummiwerk Kraiburg Elastik GmbH & Co. KG,Tittmoning,https://www.kraiburg-elastik.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_7d6fab5b773598d109c7,Gustoland GmbH,Oer-Erkenschwick,http://www.gustoland.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_9f911aae0fc21765f597,Gut Dummerstorf GmbH,Dummerstorf,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_6614ad1852ad008377a5,Gut Rosenkrantz Bio Futter GmbH & Co. KG,Neumünster,http://www.bio-futter.sh,Animal Feed and Nutrition,DVT Member Directory
+COMP_29ee92ebfa1cb779473e,Güttler GmbH,Kirchheim,https://guttler.org/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_657e4e24d8767a65aa8f,H. Bröring GmbH & Co. KG,Dinklage,http://www.broering.com/,Animal Feed and Nutrition | Cattle and Pig Value Chain - Subsector Unverified,DVT Member Directory | BRS Member Directory
+COMP_452436dcc490afa14919,H. Gugel GmbH Wurst & Schinken,Grafenwöhr,http://www.gugel.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_a2eba0f277de7d97a963,H. Klümper GmbH & Co. KG Schinkenräucherei und Fleischwarenfabrik,Schüttorf,http://www.kluemper-schinken.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_17c3eb72f4577b33a0b3,H. Schoppe & Schultz GmbH & Co. KG,Ratzeburg,http://schoppe-schultz.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_26d1b9c8e58006664097,H. Thamann & Leiber GmbH <br> Landhandel . Kraftfutterwerk,Neuenkirchen-Vörden,http://www.tafu.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_aee8705124c07c34300a,H. Wilhelm Schaumann GmbH,Pinneberg,http://www.schaumann.de,Animal Feed and Nutrition | Cattle and Pig Value Chain - Subsector Unverified,DVT Member Directory | BRS Member Directory
+COMP_dc8643368494df7ac8b0,H. Wolking Mühlenbau Maschinenbau GmbH & Co. KG,Vechta,http://www.wolking-muehlenbau.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_5f10b5e4db7280ae6198,HAGES Hans G.E. Sievers GmbH & Co. KG,Hamburg,,Animal Feed and Nutrition,DVT Member Directory
+COMP_2684d08cc7966eda586d,HANSA Landhandel GmbH & Co. KG,Heeslingen,http://www.hansa-landhandel.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_6747a18f3353b6367864,HARDI GmbH,Wedemark,http://www.hardi-international.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_cd96c70caa4688d33554,HEINRICH KLENK GMBH & CO. KG,Schwebheim,http://www.klenk-herbline.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_8b64efc3f6b363955287,HERTA GmbH,Herten,http://www.herta.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_499759c26ad1069bc455,HIPRA Deutschland GmbH,Düsseldorf,https://www.hipra.com/portal/de/hipra/home,Animal Health & Veterinary Pharmaceuticals | Cattle and Pig Value Chain - Subsector Unverified,BfT Member Directory | BRS Member Directory
+COMP_2febed68a39a9f0e721a,HJS Emission Technology GmbH & Co. KG,Menden,http://www.hjs.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_f416c1f7a512b4ad6ff2,HL Hamburger Leistungsfutter GmbH,Hamburg,http://www.hl-futter.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_55dac53f69442ee7ea4a,HOCO-Mühle GmbH Kraftfutterwerk + Landhandel,Colnrade,https://www.hoco-muehle.de/index.html,Animal Feed and Nutrition,DVT Member Directory
+COMP_545e4e38a83238ce79d2,HOHBURG Mineralfutter GmbH,Hohburg,https://www.hohburg-mineralfutter.de/de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_937fd61f8fc5d65da245,HORSCH Maschinen SE & Co. KG,Schwandorf,http://www.horsch.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_00b157f596ddfb0a17e7,HOWE Wurstwaren KG,Nürnberg,http://www.howe-wurstwaren.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_4d7619ae9bcb003c4a55,HYDAC TECHNOLOGY GmbH,Sulzbach,http://www.hydac.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_7a7f6a9be09e4490bbe1,HaBeMa Futtermittel GmbH & Co KG,Hamburg-Wilhelmsburg,http://www.habema.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_bae21030df0be2b86166,Hagemann Dienste GmbH,Groß Pankow (Prignitz),http://www.hagenmann-dienste.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_da5d60dc20549dfb4b4d,Hako GmbH,Bad Oldesloe,https://www.hako.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_b38e8846a61a4e878a5a,Handel und Schweinemast Böging kG,Vechta,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_dbd385a29410b18ba790,Hans Kupfer & Sohn GmbH & Co. KG,Heilsbronn,http://www.hanskupfer.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_21827c8d9b94dab2fa49,Hans Wanner GmbH Maschinen- und Fahrzeugbau,Wangen,http://www.wanner-maschinenbau.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_6203e6f020a4acb59ee0,Hardy Remagen GmbH & Co. KG,Hürth,http://www.hardy-remagen.com,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_3bddcb1cd2227b78388f,Harzländer Spezialitäten GmbH & Co. KG,Bad Gandersheim,http://www.harzlaender.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_ec1abbb28dddcef1854e,Heforma GmbH,Selm,http://www.heforma.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_70b20a8f50d804e977ca,Heinrich Eggersmann Futtermittelwerke GmbH,Extertal,http://www.eggersmann-shop.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_72156ba2c84751508799,Heinrich Manten Qualitätsfleisch vom Niederrhein GmbH & Co. KG,Geldern,http://www.heinrichmanten.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_1c10d4e1f8608fce07db,Heinrich Meier Mühle und Futtermittelhandel GmbH & Co. KG,Hille,,Animal Feed and Nutrition,DVT Member Directory
+COMP_195c69466f5c1cce1550,Heinrich Nagel KG (GmbH & Co.),Hamburg,http://www.nagel-kg.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_8d132934f76335495578,Heinrich Stumpf GmbH & Co. KG,Großen-Buseck,http://www.heinrich-stumpf.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_be0fe2ef4f975b63b874,Heinrichsthaler Milchwerke GmbH,Radeberg,http://www.heinrichsthaler.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_6917c9e4daaa17936620,Heinz Tummel GmbH & Co. KG,Schöppingen,http://www.tummel.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_657fd48c6916d2164ab4,Hemme Milch GmbH & Co. KG,Angermünde,http://www.hemme-uckermark.de/,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_d428e71f683fc43ecf4a,Henry Lamotte Oils GmbH,Bremen,https://www.lamotte-oils.de/de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_42eb3fef0b3cb2b14662,Herbert Dammann GmbH Insolvent Pflanzenschutztechnik,Buxtehude,http://www.dammann-technik.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_f37f6d5e9600d5c3f12c,Herbert Hintz GmbH,Nehms,http://www.herberthintz.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_dcfb4475de668b714079,Hermann Schräder HS-Kraftfutterwerk GmbH & Co. KG,Ochtrup,http://www.hs-schraeder.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_26c6769fb807b1116aff,Hessischer Verband für Leistungs- und Qualitätsprüfung i.d.Tierzucht e.V.,Alsfeld,http://www.hvl-alsfeld.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_091859d3111db88c59bb,Hipp GmbH & Co. Vertrieb KG,Pfaffenhofen,http://www.hipp.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_26f493382d2196436132,Hoche Butter GmbH,Uelzen,http://www.hoche-butter.de/,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_a1a9c1da3d2735e02d3a,Hochland Deutschland GmbH,Schongau,http://www.hochland-group.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_e17ca628364a7c457743,Hochland SE,Heimenkirch,http://www.hochland-group.com,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_800edc88f3338bbf629e,Hochwald Foods GmbH,Hünfeld,http://www.hochwald.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_2de34741f94a3e6f1470,Hochwald Foods Whey Ingredients GmbH,Mechernich,http://www.hochwald.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_84d8a56e655bc547b117,Hof Engelken GmbH & Co. KG,,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_b8c97bd664e0bedd4981,Hofmeister Käsewerk GmbH & Co. KG,Moosburg an der Isar,http://www.chambignon.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_40dc04b8d4a810188990,"Hofmeister Käsewerk GmbH & Co. KG
+Werk Pfeffenhausen",Pfeffenhausen,http://www.champignon.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_760c8d92432920b907ab,Hohenloher Molkerei eG,Schwäbisch Hall,http://www.hohenloher-molkerei.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_2a136c8a140231650120,Holzmühle Westerkamp GmbH,Visbek,http://www.westerkamp-gmbh.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_537b98968458dd2f5884,Honda Deutschland Niederlassung der Honda Motor Europe Ltd.,Frankfurt am Main,http://www.honda.de/ah/3702.html,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_874af63abb9132646ada,Hubert Bahlmann GmbH & Co. Versandschlachterei / Spezialfutterwerk KG,Lindern,http://www.bahlmann-kalb.de/,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_9453d85d76fb957c409e,Humana GmbH,Herford,http://www.humana-baby.com,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_d1d0e8013f2d927105ad,Humavet Dr. Arndt GmbH,Bremen,http://www.ew-nutrition.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_71bcb181d237c6f1f86e,Huvepharma N.V.,,https://www.huvepharma.com/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_b769e93bb51c04bc2fad,Hybridschweinezuchtverband Nord/Ost e.V.,Malchin,http://www.hszv.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_8533dd244cb342981b4a,Hydrosol GmbH & Co. KG,Ahrensburg,http://hydrosol.de/,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_ed9d1ca3c32f98df3642,Hypor Deutschland GmbH,,https://www.hypor.com/de/,Pig Breeding and Genetics,Weser-Ems Pig Genetics Partners
+COMP_a61f39b3f9c2a54352aa,Hülshorst GmbH,Harsewinkel,http://www.huelshorst.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_85442b33b99a6ed7559f,IG-Grauvieh Deutschland c/o Jessica und Volker Wolf,Volkerzen,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_aea39ed8b59dba2f065d,IMV Technologies,L'Aigle,http://www.imv-technologies.com/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_62ce5e2920f2569d55b7,INTER CONTROL Hermann Köhler Elektrik GmbH & Co. KG,Nürnberg,http://www.intercontrol.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_3f0a31fa32f1a0801f2d,INTERKAT Catalyst GmbH,Königswinter,http://www.interkat.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ed9db48aa945be98d1cb,IQ-Agrar Service GmbH,Osnabrück,https://www.rind-schwein.de/www.iq-agrar.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_3275472257ba5b7e9557,ISEKI-Maschinen GmbH,Meerbusch,https://www.iseki.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_58012e8c1b5af926c67e,IWEST Tierernährung Dr. Meyer & Co. KG,Hohenpeißenberg,https://www.iwest.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_a8884dbd0f85aef744e5,Immergut GmbH & Co. KG,Schlüchtern,http://www.immergut.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_cd68c171cfb2b51c1b75,InMach Intelligente Maschinen GmbH,Ulm,http://www.inmach.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_18fa2dfae4c407b495aa,Institut für Fortpflanzung landwirtschaftlicher Nutztiere Schönow e.V.,Bernau,http://www.ifn-schoenow.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_e54fab0c509e5f43864b,Inter-Harz GmbH,Klein Offenseth-Sparrieshoop,http://www.interharz.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_fe9881d5df76303a6068,Interessengemeinschaft der Schweinehalter in Thüringen e.V. (IGS-Thüringen) Waltershausen,Waltershausen,https://www.thueringer-schweinehalter.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_f2b59c2e7cfdde3efbb3,Interquell GmbH,Wehringen,http://www.happydog.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_86609bd82cd18cf97853,Intertek Food Services GmbH,Leinfelden-Echterdingen,http://www.intertek.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_4579766cba2ff9b782ad,Invaso GmbH Tiernahrung,Ergoldsbach,http://www.invaso.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_cf92bca15ba3589db63e,Isringhausen GmbH & Co. KG,Lemgo,http://www.isri.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_36958d24ec07bfe34baf,J. Bauer GmbH & Co. KG,Wasserburg am Inn,http://www.bauer-natur.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_1131c75cce01a29bf51a,J. Bauer GmbH u. Co. KG Besamungsstation,Wasserburg/Inn,https://www.bauer-besamung.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_ddc521cb556cedb70ce2,J. Müller Weser GmbH & Co. KG,Brake,http://www.jmueller.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_78ed97aec940dbdc62dc,J. RETTENMAIER & SÖHNE GMBH & CO. KG,Rosenberg,http://www.jrs.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_159cfe45092e0d0493fd,J. Stöfen GmbH,Wesselburen,http://www.stoefen.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_eb0a0b5e3dac06d9814f,J.A. Plambeck Landhandel und Kraftfutter,Brügge,https://www.die-futtermanufaktur.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_ef05301aa02c90f04a91,JCB Deutschland GmbH,Frechen,http://www.jcb.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_9f787e4e68a0928146fe,JOST Agriculture GmbH,Dieburg,https://quicke.com/de/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_26040f6d4c806f671d65,Jade Schlachthof Wilhelmshaven GmbH,Wilhelmshaven,http://www.jadeschlachthof.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_418f36eb68d9981b4fc6,Jeneil BioProducts GmbH,Schechen bei Rosenheim,http://www.jeneil-bioproducts.de/,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_290c1fc01ef4298d740b,Jenz GmbH Maschinen- und Fahrzeugbau,Petershagen,http://www.jenz.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_5c6c8ba4d34d66d1b417,Jermi Käsewerk GmbH,Laupheim-Baustetten,http://www.jermi.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_4fdb9be48b2c0204312f,Johannes Timmermann GmbH & Co. KG,Schillsdorf,,Animal Feed and Nutrition,DVT Member Directory
+COMP_62eaf41e7c5f139ae9e8,John Deere GmbH & Co. KG,Mannheim,http://www.johndeere.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_46ca62ca8b5d3e66459f,John Deere GmbH & Co. KG John Deere Vertrieb,Bruchsal,,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_16e17a7a71cf41999d65,Josef Brüninghoff GmbH & Co. KG,Bocholt,http://www.brueninghoff-kalbfleisch.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_8e12291a6aaaf11fd4da,Josef Wernke GmbH,Cloppenburg,http://www.wernke-fleisch.de/de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_1a62c3e7a05ec015ef06,Josera GmbH & Co. KG,Kleinheubach,http://www.josera.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_27dee56275d40f3dc3b6,Julius Tielbürger GmbH & Co.KG Maschinenfabrik,Stemwede,http://www.tielbuerger.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_48d2cce3787618e0a3f1,Jura-Fleisch GmbH & Co. Schlacht- und Zerlegebetrieb KG,Neumarkt / OPf.,http://www.jura-fleisch.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_774dc14f0c0827b11d26,Jäkel GmbH & Co. KG Maschinenmesserfabri,Diemelstadt,http://www.jaekel.eu,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ee149d3a6fdfa1e14b49,Jürgens Produktions- & Handels-GmbH & Co. KG,Mühlen,https://juergens-lohne.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_9db7e5720d1e2d91cba6,KAMA-Kraftfutterwerk Karl Mansdörfer GmbH & Co. KG,Senden/Iller,http://www.kama-futter.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_d7e36f30c5b55bca8fbd,KEMIN Deutschland GmbH,Düsseldorf,http://www.kemin.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_fedf737aa568a36feb34,KMF Kemptener Maschinenfabrik GmbH,Kempten,https://hn-group.com/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_2515c2c9f042ef49832d,KUHN MASCHINEN-VERTRIEB GMBH,Genthin,http://www.kuhn.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_66edfd16c3bed090933d,Kaesler Nutrition GmbH,Cuxhaven,http://www.kaesler.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_2332f31ee08553267166,Kalkwerk Hufgard GmbH,Hösbach,http://www.hufgard.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_9fd87d5b23f6ef688424,Karl Eidmann GmbH & Co. KG,Bruchköbel,http://www.eidmann.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_f79a71f506c26c3f3213,Karl Schneider GmbH & Co. KG,Hergatz,https://www.staudachmuehle.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_3fc280658701928558bc,Karl Wolpers GmbH & Co. KG,Hildesheim,http://www.kawo.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_f3c83d48a91f570859d9,Karwendel-Werke Huber GmbH & Co. KG,Buchloe / Allgäu,http://www.exquisa.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_05d446d4314dbce56384,Keinhörster GmbH & Co. KG,Recklinghausen,http://www.keinhoerster-fleisch.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_92b4af38850ad46a5fc9,Kemink-Fleisch Kurt Heinrich Kemink GmbH & Co. KG,Duisburg,http://www.kemink-fleisch.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_8f5e75fa61b3090aabe1,Kersten Arealmaschinen GmbH,Rees,http://www.kersten-maschinen.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_838bedf39afb53267584,Kisslegg Käsefreunde GmbH,Kißlegg,http://,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_4335aa6e12cae25aa51b,Kleinemas Fleischwaren GmbH & Co. KG,Verl,http://www.kleinemas.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_1b30cf0c348f323beaa5,Klüsta Schinken GmbH & Co. KG Schinkenspezialfabrik,Schüttorf,http://www.kluesta.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_04786466421af18bdb11,Koch-Landwirtschafts-KG,Külte,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_6d90bf2e543ee96ed7db,Kohrener Landmolkerei GmbH,Penig,https://www.kohrener-landmolkerei.com/de/,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_b518f1e0bb07dd8a6201,Konivet GmbH,,https://www.konivet.de/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_8a1792b71856066117cf,Konrad Böhnlein GmbH,Bamberg,http://www.konrad-boehnlein.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_8a0554607926df6fc4e8,Kotte Landtechnik GmbH & Co. KG,Rieste,http://www.kotte-landtechnik.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_92a6262ee0d1bbd12ed9,Kottmayr Fleisch & Wurstwaren GmbH & Co. KG,Altdorf,http://www.kottmayr.com,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_062e8281fedc8d5958f3,Kraftfutter-Meyer GmbH,Twistringen,http://www.kraftfutter-meyer.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_a772c044c9fdb0dc2de0,Kramer-Werke GmbH,Pfullendorf,http://www.kramer.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ce0234544eb1ce1b6a7d,Krampe Fahrzeugbau GmbH,Coesfeld,http://www.krampe.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_0b79f94fc2e8fc60c656,Kubota Deutschland GmbH,Rodgau,http://www.kubota.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_b38975bb411a3e442a66,Kunzler Fleischwarenfabrik GmbH & Co. KG,Überherrn,http://www.kunzler.eu,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_29ee1cd120fcd42d9f67,Kverneland Group Distribution GmbH,Soest,http://www.kvernelandgroup.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_df101a0d6dbe781e7dbe,Kverneland Group Soest GmbH,Soest,http://www.kvernelandgroup.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_aaaee558e0d90180ca30,Kärcher Municipal GmbH,Reutlingen,https://www.kaercher-municipal.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_12060a499f5f8ebbe316,Käsemanufaktur Falkenhain GmbH,Lossatal OT Falkenhain,https://www.kaese-falkenhain.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_d5d576acdf77dacb6410,Käserebellen GmbH,Steingaden,http://www.kaeserebellen.com,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_e20b5f285c8f22dd5768,Käserei Champignon Hofmeister GmbH & Co. KG,Lauben,http://www.champignon.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_020f4388a23d4f3e8de2,Käserei H. Birkenstock GmbH,Hüttenberg,http://www.kaeserei-birkenstock.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_aad3db240d63d427b052,Käsewerk Hoffmann GmbH & Co.KG,Blievenstorf,http://www.kaese-nordgut.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_b3e1944d67cb3349b34b,Köckerling GmbH & Co. KG Landmaschinenfabrik,Verl,http://www.koeckerling.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_3004dd8cac32491d389c,Köppl GmbH Motor- und Gerätefabrik,Saldenburg,http://www.koeppl-motorgeraete.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_f40445b7a39025077546,L'INTERFORM Srl,Milano,http://www.linterform.com,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_28469ab9ff31056cbf28,LACONA Markus Dicke Nahrungsmittel Handelsgesellschaft mbH,Billerbeck,http://www.lacona-milch.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_7740839441e894ce1085,LACONA Nahrungsmittel Handelsgesellschaft mbH,Kronwinkl,http://www.lacona.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_12e8cd4249965721a391,LACOS GmbH,Zeulenroda,http://www.lacos.eu,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_43c3cdee3ecec4ab12fa,LANXESS Deutschland GmbH,Leverkusen,https://lanxess.com/de-de,Animal Feed and Nutrition,DVT Member Directory
+COMP_8236d4bc8e627e3a4faf,LARU GmbH,Bottrop,http://www.laru-food.com,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_356adcf210268bd5a46b,LECHLER GmbH,Metzingen,https://www.lechler.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ad7193c893f3f2b6a83b,LEMKEN GmbH & Co. KG,Alpen,http://www.lemken.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_d99569f8b8d5daf5188d,LEMMER-FULLWOOD GmbH,Lohmar,http://www.lemmer-fullwood.info,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_c7e63519c039c2bec1c0,LIGRANA GmbH,Eilsleben,http://www.ligrana.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_10a55678c0721c0d6477,LOCK GMBH,Ertingen,http://www.lockdrives.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_2181e99046d0bc411c79,LOHMANN Deutschland GmbH & Co. KG,Ankum,https://lohmann-deutschland.de/,Poultry Value Chain - Subsector Unverified,NGW Poultry Member Directory
+COMP_13244f432935374f7cad,LSI - Germany GmbH,Ansbach,http://www.jacklinks.eu,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_a07625c53164f2294010,Laboklin GmbH & Co. KG,,https://laboklin.com/de/startseite/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_87168901c7f5d6dd3668,Lackmann Fleisch- und Feinkostfabrik GmbH,Bühl,http://www.lackmann-lb.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_5db27775903107002bff,Lactalis Deutschland GmbH,Kehl,http://lactalis.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_ab6ae56ec9e33a3c2569,Lactalis Gruppe GmbH,Kehl,https://www.lactalis.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_4c441e034e1e5c3b74cb,Lactoland Trockenmilchwerk GmbH,Dülmen,http://lactoland.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_54446856e2e96d2b1764,Lactoprot Deutschland GmbH,Kaltenkirchen,http://www.lactoprot.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_c34c0c9d81b0c05a9628,Lallemand-DHW GmbH/Lallemand Animal Nutrition,Schwarzenbach a. d. Saale,https://lallemandanimalnutrition.com/de/germany/,Animal Feed and Nutrition,DVT Member Directory
+COMP_793b27962909e30dd949,Landeskontrollverband Berlin-Brandenburg eV,Waldsieversdorf,http://www.lkvbb.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_5eb8af3a18e19252dfe0,Landeskontrollverband Niedersachsen e.V.,Leer,https://www.lkv-ni.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_71de8468a280b5dd8280,Landeskontrollverband Nordrhein-Westfalen e. V.,Krefeld,http://www.lkv-rheinland.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_d5ae07e28008c315ac31,Landeskontrollverband Rheinland-Pfalz-Saar e.V.,Bad Kreuznach,http://www.lkv-rlp-saar.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_485cc34be7f2092f17c7,Landeskontrollverband Schleswig-Holstein e. V.,Kiel,http://www.lkv-sh.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_c94fe7ea200ef87a1cfa,Landeskontrollverband für Leistungs- und Qualitätsprüfung Sachsen-Anhalt e.V.,Halle,http://www.lkv-st.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_836afda90b30a9318105,Landeskuratorium der Erzeugerringe für tierische Veredelung in Bayern e.V.,München,https://www.lkv.bayern.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_7f643a977ff98755b8a1,Landesverband Baden-Württemberg für Leistungsprüfung in der Tierzucht e.V.,Stuttgart,http://www.erzeugerringe-bw.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_15622cade975fd102da1,Landhandel Rainer Bruns GmbH & Co. KG,Visbek-Rechterfeld,http://www.landhandel-bruns.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_f6e29ba9d2c83d0fdef8,Landhandel-Mühle Böckenhoff GmbH,Südlohn-Oeding,http://www.landhandel-boeckenhoff.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_db7798ca8df461f68da4,Landkäserei Holtsee GmbH,Holtsee,http://www.kaeserei-holtsee.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_5f4587c276ffa21dde83,Landliebe GmbH,Heilbronn,https://www.landliebe.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_ae6dd8add20ca5547d6f,Landwirtschaftliche Bezugsgenossenschaft eG Damme,Damme (Oldenburg),https://www.lb-damme.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_f254e01e307048ab0739,Landwirtschaftskammer NRW VBZL Haus Düsse,Bad Sassendorf,http://www.landwirtschaftskammer.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_f51d5f456d9a87ba33f8,Langewiesche Fleischwaren GmbH,Unna,http://www.langewiesche.biz,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_dccbac741dc0d2f8264d,Leiber GmbH,Bramsche,http://www.leibergmbh.de,Animal Feed and Nutrition | Cattle and Pig Value Chain - Subsector Unverified,DVT Member Directory | BRS Member Directory
+COMP_17d9a59deeaa487fca61,Lely Deutschland GmbH,Günzburg,http://www.lely.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_93cf2a487d76b3b24cb0,Likra West GmbH,Ingolstadt,http://www.likrawest.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_4c8aca8ce6a6bdc73704,Ludwig Bergmann GmbH Maschinenfabrik,Goldenstedt,http://www.l-bergmann.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_5a5aa9eedffb246f40f3,Luisenhof Milchmanufaktur GmbH,Velten,https://milchmanufaktur.berlin/,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_4885ad270356eb0c1f82,LüneHöfe KG,,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_e1a225061cdceabe1854,MAHLE Industrial Thermal Systems GmbH & Co. KG,Kornwestheim,http://www.mahle.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_3e24b091ee1182507d67,MAN Truck & Bus AG Werk Nürnberg,Nürnberg,http://www.man-nutzfahrzeuge.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_b78f70825d24e5e1b6b3,MANITOU Deutschland GmbH,Friedrichsdorf,http://www.manitou.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_be7b9e40ceb9acb69f1e,MANN+HUMMEL GmbH,Speyer,http://www.mann-hummel.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_5825ef26dd04287330a2,MEGA Tierernährung GmbH & Co. KG,Visbek,http://www.mega-tierernaehrung.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_1880901d9954f7346ba9,MEGGLE Bakery GmbH,Gebesee,http://www.meggle-bakery.com,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_734373f86963a9a31e72,"MEGGLE Cheese Altusried GmbH
+Produktion",Altusried,http://www.meggle-cheese.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_41b47f7d51db93286ede,MEGGLE Cheese Aurich GmbH & Co. KG,Aurich,http://www.molkerei-ruecker.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_ff90483491117c54e3c1,MEGGLE Cheese Wismar GmbH,Wismar,http://www.molkerei-ruecker.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_eb23a4778929eb2f04c1,MEGGLE GmbH & Co. KG,Wasserburg am Inn,https://www.meggle-foodingredients.de/,Animal Feed and Nutrition | Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,DVT Member Directory | MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_3351cae9464fa48e78e0,MERA Tiernahrung GmbH,Kevelaer,http://www.meradog.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_8a7bdc8e70b2a478dccf,MESTO Spritzenfabrik Ernst Stockburger GmbH,Freiberg,http://www.mesto.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_5c6e92b941c79bed0f75,METTEN Fleischwaren GmbH & Co. KG,Finnentrop,http://www.metten.net,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_e2df99231d6b62e025e3,MGL Molkereigesellschaft Lauingen mbH,Lauingen (Donau),http://www.molkerei-lauingen.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_56faa41421b5c8dc953a,MIAVIT GmbH,Essen (Oldb),http://www.miavit.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_a8bf786d5c72babc6d91,MIG Milchwirtschaftliche Industriegesellschaft Herford GmbH & Co. KG,Herford,,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_ccb1c8e992a15cf1aab4,MILEI GmbH,Leutkirch im Allgäu,http://www.milei.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_7fa8e3b04ff93a27c507,MSD Tiergesundheit Intervet Deutschland GmbH,Unterschleißheim,https://www.msd-tiergesundheit.de/,Animal Health & Veterinary Pharmaceuticals | Cattle and Pig Value Chain - Subsector Unverified,BfT Member Directory | BRS Member Directory
+COMP_a14081d5daaa9b2d2703,MTW Milchtrockenwerk Norddeutschland GmbH,Neumünster,http://www.uelzena.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_3cd7567b42d7ad5c66ab,MWS Schneidwerkzeuge GmbH & Co. KG,Schmalkalden,http://www.mws-sm.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_d834d5ae8ab3474e8eb2,MX Deutschland GmbH,Bonn,http://www.m-x.fr,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_b03f001dcb2337cb8e64,Maine-Anjou Verband Deutschland e.V. (MAVD),Busdorf,http://www.maine-anjou.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_0f3de96922c17d648a1c,Mang-Käsewerk GmbH & Co. KG,Kammlach,http://www.st-mang.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_de3577a74b0516b18916,Markus-Mühle GmbH & Co. KG,Langenhahn,http://www.markus-muehle.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_584649db011bf88a78c2,Martens Spezialfutter GmbH & Co. KG,Dötlingen-Brettorf,http://www.martens-spezialfutter.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_7e357d14b537938fbf9d,Martin Bauhofer Käserei GmbH,Bodnegg,,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_54bf48c546461875cf2a,Maschinenbau Cernota GmbH & Co. KG,Staudt,https://www.maschinenbau-cernota.de/mc/maschinenbau-cernota/de/Home/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_eff9e1e4598c7ea865b9,Maschinenfabrik Bernard Krone GmbH & Co. KG,Spelle,http://www.krone.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_0e6e96956a4efe34c4bb,Maschinenfabrik KEMPER GmbH & Co. KG,Stadtlohn,http://www.kemper-stadtlohn.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_15640df377c966a3189a,Maschio Deutschland GmbH,Thalmässing,http://www.maschio.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_56a45b69d696bf199567,Masterrind GmbH,Verden,http://www.masterrind.com/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_204bb13f580b53b9c2bd,Masterrind GmbH (SRV),Meißen,http://www.masterrind.com,Cattle Breeding and Genetics,ASR Cattle Breeding Member Directory
+COMP_a7d0aa8760e6d1d4bc7d,Masterrind GmbH Abteilung Fleischrinder,Verden,http://www.masterrind.com/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_863c2a0ddee411f5f3a8,Meemken Wurstwaren GmbH,Friesoythe-Gehlenberg,http://www.meemken.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_9f989b849ed2618da81e,Meica Ammerländische Fleischwarenfabrik Fritz Meinen GmbH & Co. KG,Edewecht,http://www.meica.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_5aeab6f5027b082ad382,"Meierei Barmstedt eG
+Werk Barmstedt",Barmstedt,http://www.meierei-barmstedt.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_7480f87a62a961f3a8e3,"Meierei Barmstedt eG
+Werk Neumünster",Neumünster,http://www.meierei-barmstedt.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_740408579d3df4340d67,Meierei Schmalfeld,"Schmalfeld, Holstein",http://www.meierei-schmalfeld.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_714b330f7abe213b4720,Meierei Struvenhütten eG,Struvenhütten,http://www.meierei-struvenhuetten.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_539cbac115dca4375976,Meika-Biofutter GmbH,Großaitingen,https://meika-biofutter.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_42e4976811afd930661a,Meininger Wurstspezialtäten aus Thüringen GmbH,Meiningen,http://www.meininger-wurst.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_e0793a84e6c4e1115296,Meitron GmbH - Blending & Packaging,Kempen,http://www.meitron.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_2b9e46d8247304ca856f,Merlo Deutschland GmbH,Bremen,http://www.merlo.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_cbadb512759f090cc8b3,Metzgerei ESSER GmbH & Co. KG,Erkelenz-Lövenich,http://www.wurst-esser.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_3c4c4fd6a246196a0361,Metzgerei Robert Müller GmbH & Co. KG,Flieden,http://www.metzgerei-robert-mueller.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_3634b93ba83e72d489b2,Milchhof Albert GmbH & Co. KG,Scheßlitz,http://www.milchhof-albert.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_aef9183ceb016bf9d38c,Milchkontroll- und Rinderzuchtverband eG,Güstrow,http://www.lkv-mv.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_25f7f7538b5a52966f9c,Milchkontroll- und Rinderzuchtverband eG Abteilung Fleischrindzucht,Plau am See,http://www.rinderzucht-mv.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_4be326e4a1340456fd00,Milchkontrollverband Elbe-Weser e.V.,Verden,http://www.lkv-milchwirtschaft.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_de6304837518b516b431,Milchproduktenhandel Oberland eG,Miesbach,http://www.bayerische-bauernmilch.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_2dea5b146608584d1e41,Milchwerk Bad Wörishofen GmbH,Bad Wörishofen,https://bwmilch.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_c6472677d2dedf98326c,Milchwerk Crailsheim-Dinkelsbühl eG,Crailsheim,http://www.milchwerk-crailsheim.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_26eadc4da3d6b4077b29,Milchwerk Jäger GmbH,Haag i. OB,http://www.milchwerk-jaeger.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_7ac342682a80c8c71655,"Milchwerke ""Mittelelbe"" GmbH",Stendal,http://www.elb-milch.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_4b5ee7fde28b4292171c,Milchwerke Berchtesgadener Land Chiemgau eG,Piding,http://www.molkerei-bgl.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_42f63b7dee07874fc837,Milchwerke Ingolstadt-Thalmässing eG,Ingolstadt,http://www.goldmilch.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_698552c90eaf86a1867b,Milchwerke Oberfranken West eG,Hofheim in Unterfranken,hhttp://www.milchwerke-oberfranken.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_6f54a8e29ab000476a36,Milchwerke Schwaben eG,Neu-Ulm,http://weideglueck.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_13c99c9d11876a00d803,Milupa GmbH,Fulda,http://www.danone.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_8dd72a83c3b1a81e9090,Minitüb GmbH,Tiefenbach b. Landshut,http://www.minitube.com/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_9e3d8e9bb79efd378009,Mischfutter Werke Mannheim GmbH,Mannheim,http://www.mifuma.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_76b9172f914c4f5cd834,Molkerei Alois Müller GmbH & Co. KG,Aretsried,http://www.muellermilch.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_1f91ff5a61ac1cc421f0,Molkerei Ammerland eG,Oldenburg,http://www.molkerei-ammerland.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_d9ab5e4cf0839a4c185c,Molkerei Gropper GmbH & Co. KG,Bissingen,http://www.gropper.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_8027951ec45a41767589,Molkerei Hainichen-Freiberg GmbH & Co. KG,"Freiberg, Sachsen",http://www.molkerei-freiberg.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_db1db1e38a5674fde59b,"Molkerei Hainichen-Freiberg GmbH & Co. KG
+Bereich Trocknung Alpavit","Freiberg, Sachsen",http://www.striegistaler-zwerge.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_3361c30fadda34a44369,Molkerei Lamstedt e.G.,Lamstedt,https://www.molkerei-lamstedt.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_501323eebb71a9b10675,Molkerei Niesky GmbH,Niesky,https://www.fsmilch.de/standorte/niesky/,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_cee7078eb9d748236ed9,Molkerei Söbbeke GmbH,Gronau-Epe,http://www.soebbeke.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_5b4032076ff40c9af0ab,Molkerei Weihenstephan GmbH & Co. KG,Freising,http://www.molkerei-weihenstephan.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_c83c79fe34ffa2cfff1b,Molkerei Wiegert GmbH & Co. KG,Velen,http://www.wiegertmilch.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_b514962b77edba37c182,Mondelez Deutschland Snacks Production GmbH & Co. KG,Bad Fallingbostel,http://mondelezinternational.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_1c757eb6c8ab76dbc2a5,Mondelez Europe Procurement GmbH,Bremen,http://www.mondelezinternational.com,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_7e194cb679140ed19e3a,Moorgut Kartzfehn Turkey Breeder GmbH,Bösel/Kartzfehn,https://www.kartzfehn.de,Poultry Value Chain - Subsector Unverified,NGW Poultry Member Directory
+COMP_b142086039d0a625c517,Motec GmbH,Hadamar,http://www.motec-cameras.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_08617f407b2d9946042e,Mutterkuh und Extensivierungsgesellschaft Neuenkirchen mbH,Neuenkirchen,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_0bdd08829ca9889bcfad,Möhlenkamp GmbH & Co. KG,Lorup,http://www.moehlenkamp-lorup.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_247e227189e5e5bccbc6,Müller Fleisch GmbH,Birkenfeld,http://www.mueller-fleisch.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_2bed56ee1cbeb6ebd089,Müller's FeinkostManufaktur GmbH & Co. KG,Ebstorf,http://www.muellers-feinkostmanufaktur.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_7d23c72c00a4bbb121f7,Münsterland J. Lülf GmbH,Rosendahl-Osterwick,https://www.muensterland-milch.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_230311a2a07580100050,NHU EUROPE GmbH,Bardowick,http://www.nhu-eu.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_9f567ae9cd285bbada08,NOACK Deutschland GmbH,Warendorf,http://www.noack-deutschland.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_a4ba5b4341e69f018c4d,NORLAC GmbH,Zeven,http://www.norlac.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_00071fdf228b74924a08,NOVAG GmbH,Hannover,https://novagsas.com/de/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_24ae739178b481f2ba9e,Naabtaler Milchwerke GmbH & Co. KG Privatmolkerei Bechtel,Schwarzenfeld,http://www.privatmolkerei-bechtel.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_ba454dcb5c0a6479172a,Naturmühle Vechteland GmbH,Hoogstede,http://www.naturmuehle-vechteland.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_335d5981e0b445affcc3,Nestlé Deutschland AG,Frankfurt am Main,http://www.nestle.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_c4aec906a4c67113e763,"Nestlé Deutschland AG
+Werk Biessenhofen",Biessenhofen,http://www.babyservice.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_781e099fcf94d0100df9,Nestlé Schöller GmbH & Co.KG,Nürnberg,http://www.nestle.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_376343308a8370aaf85e,Neuburger Milchwerke GmbH,Neuburg an der Donau,http://www.omira.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_914ba0a51bc78ace05aa,Nordhäuser Schweinemast GmbH & Co. KG,Nordhausen,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_4f3f894c921b2236edb8,NordseeMilch eG,Witzwort,http://www.NordseeMilch.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_e4d0e1be5f3c427ed565,Novus Deuschland GmbH,Gudensberg,https://www.novusint.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_ddc5a1a665d5354c8628,ODW Frischprodukte GmbH,Elsterwerda,http://www.andros.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_7d7bbfe18c8ce5ac8ec3,OMIRA GmbH,Ravensburg,http://www.omira.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_343f4e8a8a1a1edc496b,OSB connagtive GmbH,München,http://www.osb-connagtive.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ccd07ccaf23fb5075cde,OSI International Holding GmbH,Gersthofen,http://www.osigroup.com,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_52a513b6ad6ef0ffd1dc,Odenwälder Fleischwaren GmbH,Fränkisch-Crumbach,http://www.odenwaelder-fleischwaren.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_41db606c3738a7aa6447,Oehler Maschinen Fahrzeugbau GmbH,Offenburg,http://www.oehlermaschinen.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_d3428d14e8b5a198f812,Orffa Deutschland GmbH,Wesel,https://orffa.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_c222337d27bb21b2aeb4,Ornua Deutschland GmbH,Neukirchen-Vluyn,http://www.kerrygold.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_17c9eb36ae970288aa8e,Osnabrücker Herdbuch-Genossenschaft eG,Melle,http://www.ohg-genetic.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_616a3bf2500b435b9324,Ostmilch Handels GmbH,Berlin,http://www.ostmilch.com,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_c3d990d0d8a6ca124965,Otto Müller Fleisch- und Wurstwaren GmbH,Konstanz,http://www.otto-mueller.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_7ef55a7e83e362557985,PIC Deutschland GmbH,Isernhagen,http://www.picdeutschland.de/,Cattle and Pig Value Chain - Subsector Unverified | Pig Breeding and Genetics,BRS Member Directory | Weser-Ems Pig Genetics Partners
+COMP_51d3ffb6a543e1ff9202,PLANTON GmbH BioAnalytik,Kiel,http://www.planton.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_dd8d844258b82078a6fc,PROFUMA Spezialfutterwerke GmbH & Co. KG,Dormagen,http://www.blattin.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_9cd087b6c04827d73e6e,PROHAMA Produkten-Handel GmbH,Ludwigshafen,http://www.vinasse.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_6825eb298dff2aafc61a,PTx Trimble GmbH,Salzkotten,http://www.PTxTrimble.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ca8abd69acbe8f359eaa,PerformaNat GmbH,Berlin,http://www.performanat.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_672e6df4f9b5ce2b4bc6,Peter Emming Agrarkontor- und –handel GmbH & Co. KG,Südlohn-Oeding,http://www.agrarkontor.com,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_6d55e029571188d42b80,Peter Hünten GmbH,Löf,http://www.peterhuenten.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_e2021896b6de9b7d48f5,Peter Kröger GmbH,Visbek,http://www.kroeger-nutzfahrzeuge.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_1a41e758e125b6243fd8,Petri Feinkost GmbH & Co. KG,Ottenstein/Glesse,http://www.petri-feinkost.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_0c9fd222a52eb09918b5,Pfeifer & Langen GmbH & Co. KG,Köln,http://www.pfeifer-langen.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_24e4cb5c3d827363bc96,"Phileo by Lesaffre Phileo, a division of S.I.Lesaffre",Marcq-en-Baroueul cedex,http://www.phileo-lesaffre.com/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_1b8c4b82a8da4463b2fb,Phytobiotics Futterzusatzstoffe GmbH,Eltville,http://www.phytobiotics.com,Animal Feed and Nutrition | Cattle and Pig Value Chain - Subsector Unverified,DVT Member Directory | BRS Member Directory
+COMP_84bdee9f71970d4052a3,Ponnath DIE MEISTERMETZGER GmbH,Kemnath,http://www.ponnath.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_dddf4cef3e02a2d14c1a,Premium Food Group ApS & Co. KG,Rheda-Wiedenbrück,http://www.toennies.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_7b31c3f7a7abfbde3bde,Privatmolkerei Bauer GmbH & Co KG,Wasserburg,http://www.bauer-milch.de/,Cattle and Pig Value Chain - Subsector Unverified | Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,BRS Member Directory | MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_ed294a4cc492c51108fb,Privatmolkerei Naarmann GmbH,Neuenkirchen,http://www.naarmann.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_521ef010856c063782dd,ProRind,Kempten,https://www.prorind.de/,Cattle Breeding | Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory | ASR Cattle Breeding Member Directory
+COMP_40a9e28c2b769ad62048,"Produktivgenossenschaft ""Altmark"" eG Neuferchau",Klötze,http://www.pg-neuferchau.de/,Pig Production,IMA Livestock Production Directory
+COMP_23ba2111e7e657ec5815,Provita Supplements GmbH,Pinneberg,http://www.provita-supplements.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_d1a525f069a9b7c366a7,Pulte GmbH & Co. KG,Rimsting,http://www.pulte.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_3fe5ae893ca1adb393ea,QS Qualität und Sicherheit GmbH,Bonn,http://www.q-s.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_d40217b36b5df98df5ab,Qnetics,Alsfeld,https://www.qnetics.de/,Cattle Breeding and Genetics,ASR Cattle Breeding Member Directory
+COMP_0ae2e969ff354f7e672e,Qnetics GmbH,Alsfeld,https://www.qnetics.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_fb3c5b8aa9b69861f823,Qnetics GmbH Abteilung Fleischrinder,Alsfeld,https://www.qnetics.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_27d51ad7b1594f6e5e60,R+V Allgemeine Versicherung AG AgrarKompetenzCenter,Wiesbaden,http://www.ruv.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_5f8748b6c2207332288b,R. Thomsen EU-Großschlachterei GmbH,Kellinghusen,http://toennies.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_417e58adbd0039cb4b10,RAISA eG,Stade,http://www.raisa.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_e0f1e9291f858216ef67,RBB Rinderproduktion Berlin-Brandenburg GmbH,Groß Kreutz,http://www.rinderzucht-bb.de/,Cattle Breeding and Genetics | Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory | ASR Cattle Breeding Member Directory
+COMP_eb80548f5c71fb6c576f,REKASAN Mineralfutter und Futteradditive GmbH Kaulsdorf,Kaulsdorf,http://www.rekasan.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_374a05cb368db84966f2,RETORTE GmbH Selenium Chemicals & Metals,Röthenbach a.d. Pegnitz,http://www.retorte.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_50afa69a13ffa305fd96,RLBS Mischfutter GmbH & Co. KG,Büren,http://www.rwm-eg.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_8647f55e100f2fb646a2,Rabe Agrartechnik GmbH,Bad Essen,,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_9d525ee06d0e5a0642aa,Rack & Rüther GmbH,Fuldabrück-Bergshausen,http://www.rackruether.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_f61509a8cbccff106ff9,Raiffeisen Ems-Vechte (Warengeschäft der Raiffeisenbank Emsland-Mitte eG),Klein-Berßen,https://www.raiffeisen-ems-vechte.de,Poultry Value Chain - Subsector Unverified,NGW Poultry Member Directory
+COMP_7a2eed87da508b6d77b4,Raiffeisen Ems-Vechte Produktions-GmbH,Klein Berßen,https://www.raiffeisen-ems-vechte.de/de,Animal Feed and Nutrition,DVT Member Directory
+COMP_3a0cb62ac13c7d93576d,Raiffeisen Hohe Mark Hamaland eG,Dorsten-Lembeck,http://www.rhmh.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_a7e77b90bce11d5ad1d7,Raiffeisen Kraftfutterwerk Kehl GmbH,Kehl,http://www.RKW-Kehl.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_ea1f95ab0c37e17831ca,Raiffeisen Mischfutterwerk Hase-Ems GmbH,Ankum,http://www.raiffeisenagrar.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_37f967b54871c5c17fb3,Raiffeisen Mittelems eG,Geeste/Osterbrock,http://www.raiffeisen-mittelems.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_bf58755726480fbf08e3,Raiffeisen Ostwestfalen-Lippe AG,Stemshorn,https://www.rowl.de/agrar/uebersicht,Animal Feed and Nutrition,DVT Member Directory
+COMP_ca697bbb1d13bafa679c,Raiffeisen Südoldenburg eG,Friesoythe-Markhausen,http://www.raiffeisen-suedoldenburg.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_e169bcaf7778fed24924,Raiffeisen Viehverbund eG,Twistringen,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_7aed406003b26c433521,Raiffeisen Warendorf eG,Warendorf,http://www.raiffeisen-warendorf.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_5010e889a29a572a7086,Raiffeisen-Viehverwertung Großenkneten e. G.,Großenkneten,http://www.rvv-grossenkneten.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_8a43a7b4521eea9a410a,Raiffeisen-Viehverwertung Oldenburger Land eG,Großenkneten,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_6312fc624d4485206e75,Raiffeisen-Warengenossenschaft Emsland-Süd eG,Freren,http://www.raiffeisen-emsland-sued.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_c0dd82ea6eeae28b6c28,Raiffeisen-Warengenossenschaft Hatten-Huntlosen eG,Kirchhatten,http://www.rwghatten-huntlosen.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_6de3ccef9427b2c2a8cb,Rauch Landmaschinenfabrik GmbH,Rheinmünster,http://www.rauch.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_f5ec09db13f133f15a7f,Ravensburg Milchwerke GmbH,Ravensburg,,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_0710eb627e112c065f76,Regional Fleisch Itzehoe GmbH & Co. KG,Itzehoe,http://www.regional-fleisch-itzehoe.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_9568f8e0a9d739057e47,Regionalbauernverband Kurhessen e.V.,Homberg,http://www.rbv-kurhessen.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_dce555c86d268a9b435d,Reichhardt GmbH Steuerungstechnik,Hungen,http://www.reichhardt.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_5006fc696631bf179fab,Reika GmbH,Reinsdorf,http://www.reika-reinsdorf.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_861332269fa87b336b71,Rewer Schweinezucht KG,Ahaus,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_943df1524735cbdc2b59,Rhein. Erzeugerring für Qualitätsferkel e.V.,Viersen,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_fb5380ff94c01d5f8f5c,Rhein.Erzeugerring für Mast- schweine e.V.,Sonsbeck,http://www.viehvermarktung-online.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_6c7f4f712b88fed5a17e,Rheinkalk GmbH,Wülfrath,http://www.rheinkalk.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_d206be9a1b16695b5365,RiVerGen e.V.,Höchstädt,https://www.rivergen.de/,Cattle Breeding,ASR Cattle Breeding Member Directory
+COMP_4176abf9015eb85d513f,Rinder-Union West eG,Münster,http://www.ruweg.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_af4808173b8da964ca1f,RinderAllianz GmbH,Plau am See,http://www.rinderzucht-mv.de/index.php,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_5e5f5d5cc281fc644b23,Rinderbesamungsgenossenschaft Aachen e.G.,Stolberg,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_b2d4c3a3fc075b37518c,Rinderbesamungsgenossenschaft Memmingen e.G.,Memmingen,http://www.rinderbesamung-memmingen.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_d7ef8a9117f010d62b93,Rinderbesamungsgenossenschaft Memmingen eG,Memmingen,http://www.rbgmm.de,Cattle Genetics and Reproduction,ASR Cattle Breeding Member Directory
+COMP_a9991d49bf038dbaa020,Rinderunion Baden-Württemberg Abteilung Fleischrinder,Aulendorf,http://www.rind-bw.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_f598c8b1e5987ad4ef0a,Rinderunion Baden-Württemberg e.V.,Herbertingen,http://www.rind-bw.de/,Cattle Breeding and Genetics | Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory | ASR Cattle Breeding Member Directory
+COMP_5ff761519ea8b8343d60,Rinderunion West eG,Münster,http://www.ruweg.de,Cattle Breeding and Genetics,ASR Cattle Breeding Member Directory
+COMP_f3254298df12deb3d7cb,Rinderzucht Schleswig-Holstein e.G.,Neumünster,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_da2a65f890ebe57dceb9,Rinderzucht Schleswig-Holstein eG,Neumünster,http://www.rsheg.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_30cc1fb395759f99228a,Rinderzuchtverband Franken e.V.,Ansbach,http://www.rzv-franken.de/,Cattle Breeding | Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory | ASR Cattle Breeding Member Directory
+COMP_95ddf9206d2184c88ca8,Rinderzuchtverband Oberfranken e.V.,Bayreuth,http://www.rinderzuchtverband-oberfranken.de/,Cattle Breeding | Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory | ASR Cattle Breeding Member Directory
+COMP_367c327f7931993e2e22,Rinderzuchtverband Oberpfalz w.V.,Schwandorf,http://www.rinderzucht-oberpfalz.de/,Cattle Breeding | Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory | ASR Cattle Breeding Member Directory
+COMP_fb3c5b1100a79b203b8e,Rinderzuchtverband Sachsen-Anhalt eG (RSA) Abteilung Fleischrinder,Halle/Saale,http://www.rsaeg.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_d278925867c6df30e2f4,Rinderzuchtverband Traunstein e.V.,Traunstein,http://rinderzuchtverband-traunstein.de,Cattle Breeding | Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory | ASR Cattle Breeding Member Directory
+COMP_bbe1da2845b51c419120,Ringgemeinschaft Bayern e.V.,Grub,http://www.ringgemeinschaft.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_98da660d44a373b59a27,Rockinger Agriculture GmbH,Waltershausen,http://www.rockinger-agriculture.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_b407f8f5a525b915c2c4,Rosen Eiskrem GmbH,"Nürnberg, Mittelfranken",http://www.dmk.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_c9bdb536a3988757b0e6,Rosen Eiskrem Süd GmbH,Prenzlau,http://www.dmk.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_82330e1b6388f50950ba,Rothkötter MFW GmbH & Co. KG,Meppen,http://www.rothkoetter.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_c964e6d34b678ddc9ec4,Rothkötter Mischfutterwerk GmbH,Meppen,http://www.rothkoetter.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_8cd35d5992e279740198,Rothkötter Unternehmensgruppe,Haren (Ems),https://www.rothkoetter.de,Poultry Value Chain - Subsector Unverified,NGW Poultry Member Directory
+COMP_f3d4d1fc873c9ef01633,Rovita GmbH Werk Wiesmühl,Engelsberg,http://www.rovita.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_09e2ecb7c952753d568c,Rudolf und Robert Houdek GmbH,Starnberg,http://www.houdek.bayern,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_41e93f232279dd718458,Rübelmann GmbH & Co. KG,Viernheim,http://www.ruebelmann.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_f91936ed861246ac21f2,Rügamer GmbH,Schwebheim,https://georg-ruegamer.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_81c1233921eace5ca1e5,Rügenwalder Mühle Carl Müller GmbH & Co. KG,Bad Zwischenahn,http://www.ruegenwalder.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_28519e3fca9d05f2d848,Rügenwalder Spezialitäten Plüntsch GmbH & Co. KG,Bad Arolsen,http://www.ruegenwalder-wurst.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_d130eda9a905caaee4fe,Rümke Spezialitäten GmbH,Dissen,http://www.ruemke-spezialitaeten.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_d38cebfceff08c80ac99,S & R Lindenberg Produktions GmbH,Lindenberg/Allgäu,http://www.rupp.at,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_ad860e2e2a6a5680a1f6,SAME DEUTZ-FAHR Deutschland GmbH,Lauingen,http://www.deutz-fahr.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_4f531fbb7ab0721aca47,SAN Group Biotech Germany GmbH,Höltinghausen,https://www.anicon.eu/de/,Poultry Value Chain - Subsector Unverified,NGW Poultry Member Directory
+COMP_435eea7c0430e00031e4,SCHUMACHER GmbH,Eichelhardt,http://www.groupschumacher.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ef61eda3e1f0eff6cc79,SEKA Umwelttechnik GmbH,Mainz,http://www.seka.gmbh,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_75b75f84cad01a0f60ec,SELECTAVET Dr. Otto Fischer GmbH,,https://www.selectavet.de/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_5adfcfe9f5ea6bfe89f1,SGS Germany GmbH,Hamburg,https://www.sgs-institut-fresenius.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_057026d86c0dae90dffc,SIG Combibloc GmbH,Linnich,http://www.sig.biz,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_64dac7e5a6360ce28ed1,SILOKING Mayer Maschinenbau GmbH,Tittmoning,http://www.siloking.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_b60fb46f5725f438fe5d,SKBR Schweinekontroll- und Beratungsring Mecklenburg-Vorpommern e.V.,Schwerin,http://www.skbr.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_7ff0a5b3ffb48fcebce0,SOLO Kleinmotoren GmbH,Sindelfingen,http://www.solo-germany.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_f4b593c6336c90236d1a,SOLVAY Chemicals GmbH,Rheinberg,http://www.solvaybicar.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_4e2a8dd40c61695036bc,SPINNE Walzenmühle GmbH & Co. KG,Oelde,http://www.spinne-oelde.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_c0e74c7a8d77fe7501af,SUEVIA HAIGES GmbH,Kirchheim,https://www.suevia.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_094338fdd0a302df5f1b,SUISAG AG für Dienstleistungen in der Schweineproduktion,Sempach / SCHWEIZ,https://www.suisag.ch,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_4d8499d0e24bca76dfd2,SVIFT - Consulting GmbH Ingenieurbüro für Tierproduktion,Marienheide,http://www.svift.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_8375efce9db7ee9e24ef,Sachsenmilch Leppersdorf GmbH,Leppersdorf,http://www.sachsenmilch.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_1f257a12310dd7158bfc,Salomon Hitburger GmbH,Großostheim-Ringheim,http://www.salomon-foodworld.com,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_37a4658146e1cb9930ff,SaluVet GmbH,Bad Waldsee,http://www.saluvet.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_b795bf40c358ab242539,Salvana Tiernahrung GmbH,Kl. O. Sparrieshoop,http://www.salvana.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_9e34d349be1bb5773520,Sano - Moderne Tierernährung GmbH,Loiching,http://www.sano-online.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_17d09c89473dffaa0915,Sauels frische Wurst GmbH Fleischwaren & Co. KG,Kempen,http://www.sauels.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_725be29800ecf29ab7d5,Schellinger KG,Weingarten,https://schellinger-kg.de/de/tierfutter/,Animal Feed and Nutrition,DVT Member Directory
+COMP_6a745ca8f8213e2eb842,Schlachterei Uhlen GmbH,Lengerich,http://www.schlachthof-uhlen.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_ee258435baf8c1352456,Schmotzer Hacktechnik GmbH & Co. KG,Bad Windsheim,https://www.schmotzer-ht.de/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_4a021bfacef2fba52552,Schneider Landmaschinenzentrum GmbH & Co. KG,Herrenberg-Gültstein,http://www.sgariboldi.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_a64ca42bcd9dd0b1356a,Schreiber Foods Europe GmbH,Wangen,http://www.schreiberfoods.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_9168e9c09441bc9d2297,Schulte + Sohn Fleischwaren GmbH & Co. KG,Mönchengladbach,http://www.schulte-sohn.com,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_6a8de72f23fa950765d4,Schumacher Bergische Werke GmbH,Wermelskirchen,http://www.groupschumacher.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_0be2d64ffe13f2415879,Schwarzwaldmetzgerei Kalbacher GmbH & Co. KG,Lörrach,http://www.kalbacher.com,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_8e9ef0c84f1a20b3ac21,Schwarzwaldmilch GmbH Freiburg,Freiburg,http://www.schwarzwaldmilch.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_61ed700b44450025cb10,Schwarzwaldmilch GmbH Offenburg,Offenburg,http://offenburg.schwarzwaldmilch.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_7ca260fbb74999906c0f,Schweinebesamungsstation Weser-Ems e.V.,Bethen,,Pig Breeding and Genetics,FBF Pig Breeding Member Directory
+COMP_5df1ad81c3d8f117277b,Schweineerzeuger Nord-West eG,Senden-Bösensell,http://www.snw-net.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_37bb315ae86f5bb1c4ef,Schweinespezialberatung Schleswig-Holstein e.V.,Kappeln,http://www.schweinespezialberatung.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_85fcfff49ed364a571d8,Schweinevermarktung Rheinland w.V.,Sonsbeck,http://www.viehvermarktung-online.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_25e4637d3fcf4602fb2b,Schweinewirtschaftsverband Sachsen-Anhalt e.V.,Dähre,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_2a2c7213357df0b58f4f,Schweinezuchtverband Bad.-Württemb. e.V. German Genetic,Stuttgart,http://www.german-genetic.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_bdcc2085eddc0f0fe65f,Schweinezuchtverband Baden-Württemberg e.V.,Stuttgart,http://www.german-genetic.de//,Pig Breeding and Genetics,FBF Pig Breeding Member Directory
+COMP_87672c06fb1f74af4085,Schwäbische Wurst-Spezialitäten NOTHWANG GmbH & Co. KG,Bad Friedrichshall,http://www.nothwang.com,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_fae8b4c27ecca215efde,Schwälbchen Molkerei Jakob Berz AG,Bad Schwalbach,http://www.schwaelbchen-molkerei.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_e54935cc34c72f7f6930,Schönegger Käse-Alm GmbH,Prem,http://www.schoenegger.com,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_70f4a1bb9f9907531ccf,Schütten & Lemmerholz Handelsgesellschaft mbH,Neuss,http://www.sl-butter.de/,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_1102b4baf023971b80eb,Serumwerk Bernburg AG / Tiergesundheit GmbH,,https://serumwerk-tiergesundheit.de/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_af7c3d26fa682dbb739d,Simon-Fleisch GmbH,Wittlich,http://www.simon-fleisch.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_7cb4ec79e99fb564221c,Sinta GmbH,Schwarzenborn,,Animal Feed and Nutrition,DVT Member Directory
+COMP_1fb4e1004a6468314764,Sontheim Industrie Elektronik GmbH,Kempten,http://www.s-i-e.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_8ea9549a2d63f03726eb,Spezialfutter Neuruppin GmbH & Co. KG,Neuruppin,http://www.sn-neuruppin.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_e2456aa262b3c854b841,Spezialitäten-Käserei Wiegert GmbH,Heiden,http://www.wiegertmilch.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_669421762c81ec7d6ad9,Spohn + Burkhardt GmbH & Co. KG Elektrotechnische Fabrik,Blaubeuren,https://www.spobu.com/de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ffb8558ffd32b5e862aa,Spraying Systems Manufacturing Europe GmbH,Schorndorf,http://www.spray.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_4a257351cef51c30a9a8,Steinemann Holding GmbH & Co. KG,Steinfeld,http://www.steinemann.de,Meat Processing and Manufacturing | Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering | BVWS Meat Processing Member Directory
+COMP_03231444e9d187d552d7,Steinemann pork processing GmbH & Co. KG,Georgsmarienhütte,http://www.eichenhof.net,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_fe501a9f2a4fcad31f70,Stubbemann GmbH&Co.KG,,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_7d3c31036bdd75de289f,Sächsischer Landeskontrollverband e. V.,Lichtenwalde,http://www.lkvsachsen.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_ce49e948ee12e08e2afe,Sölter`s Mühle Tiernahrung GmbH,Meerbeck,http://www.soelters-muehle.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_d4ea5ba644f7285c0c3e,Südbayerische Fleischwaren GmbH,Ingolstadt,http://www.suedbayerische-fleischwaren.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_d1d051e2e94cfeb02740,Süddeutsches Schweinefleischzentrum Ulm Donau GmbH,Ulm,http://www.ulmerfleisch.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_5bee2a5356acf7e28e23,Süddeutsches Schweinefleischzentrum Ulm Donautal GmbH,Ulm,http://www.sfz-ulm.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_7ec6bb2e8699df2b58ce,Südthüringer Getreide und Mischfutter GmbH,Themar,http://www.suegemi.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_07bf0d551a3c250772d7,Südzucker AG,Mannheim,http://www.suedzucker.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_be003bd85f528ac3317b,TAURUS Milchprodukte GmbH & Co. KG,Memmingen,http://www.taurus-milch.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_3f6ca3b69dce5c13e244,TOPIGS Norsvin,,https://topigsnorsvin.de/,Pig Breeding and Genetics,Weser-Ems Pig Genetics Partners
+COMP_3f3d9a7846d5e5f3ddc1,TOPIGS-SNW GmbH,Senden,http://www.topigs-snw.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_2576e87ffbcc9a493cfb,TURM-Sahne GmbH,Oldenburg,http://www.turm-sahne.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_14b1df2454287f499d37,TVM Tiergesundheit GmbH a Dômes Pharma company,,https://www.domespharma.de/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_a8e9cae9eb646e2d98c1,Tetra Pak GmbH,Hochheim am Main,http://www.tetrapak.com/de/,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_72075dff5dd8ddf121f8,Th. Buschhoff GmbH & Co.,Ahlen,http://www.buschhoff.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_be446df4921102543fa8,The Family Butchers Germany GmbH,Versmold,http://www.the-family-butchers.com,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_6f145acce9865dac5e6c,Thomas GmbH,Herdorf,https://www.thomas-group.com/,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_3b101e8529a3d7791827,Thomas Hiebert Controlling & Spezialberatung,Lauchhammer,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_cc66794acd2689fc4553,Thomas Löckemann e. K.,Saerbeck,,Animal Feed and Nutrition,DVT Member Directory
+COMP_94bbb970df6603554afb,"Tierarztpraxis Bethen Naber, Bullmann & Kollegen",Cloppenburg/Bethen,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_4c2efaf5c553e9633774,Tierarztpraxis Christian Stampa,Mittelangeln,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_a500587dc9c4cc6f85d7,Tierärztliche Hochschule Hannover Klinik für Rinder,Hannover,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_d845436d29e84c05ec27,Tihen GmbH & Co. KG,Bawinkel,http://www.tiba-kraftfutter.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_3439f0ede0e03a4d99d0,Topcon Electronics GmbH,Geisenheim,https://topcon-electronics.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_030a640e5acd360c4dd3,Treffler Maschinenbau GmbH & Co. KG,Pöttmes-Echsheim,,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_967d4aecec575d5ce576,Trouw Nutrition Deutschland GmbH,Burgheim,http://www.milkivit.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_1d4958a5e934a2dda454,Tönnies Lebensmittel GmbH & Co. KG,Rheda-Wiedenbrück,http://www.toennies.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_e729dba062340f73c079,Töpfer GmbH,Dietmannsried,http://www.toepfer-babywelt.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_b9be2b28a71f1478b362,UNA-HAKRA <br> Hanseatische Kraftfuttergesellschaft mbH,Hamburg,http://www.una-hakra.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_dca872f69315ff9c7301,Uelzena eG,Uelzen,http://www.uelzena.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_af436fd80cbc0b98e858,Uelzener Allgemeine Versicherungs- gesellschaft AG,Uelzen,http://www.uelzener.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_8f9b3077e45b954bb8bf,Ulmer Fleisch GmbH,Ingolstadt,http://www.ingolstaedter-fleisch.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_994bff7988a5a2772978,Unabhängige Erzeugergemeinschaft (UEG) Hohenlohe-Franken w.V.,Niederstetten-Adolzhausen,http://www.ueg-ferkel.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_b45cdc3e785953a9323e,Uniferm GmbH & Co. KG,Werne,http://www.uniferm.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_61aad011d0ee2f1aaf64,Unifleisch GmbH,Erlangen,http://www.unifleisch.de/de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_91fca50cd3356eb15bf8,Unser MitMachHof GmbH & Co. KG,Uetze,http://kartoffelhof-hennies.de/,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_ba0f0e5991650a3f1191,Unternehmensberatung für Rindvieh- u. Schweinehalter Hunte-Weser e.V.,Sulingen,http://www.urs-hunte-weser.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_266709c99b15c33c7ab9,VETTER Industrie GmbH,Burbach,https://www.forks.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_a8e13c25ace4a1ee91ba,VION Beef B.V.,Buchloe,http://www.vionfoodgroup.com/de/,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_fcdc3db2ea10eda80627,VION Crailsheim GmbH,Crailsheim,http://www.vionfoodgroup.com/de/,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_4b58a1ebe0bcff75a053,VION FKM Furth im Wald GmbH,Furth im Wald,http://www.vionfoodgroup.com/de/,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_cbad84dcbc08f4a20e8b,VION Waldkraiburg GmbH,Waldkraiburg,http://https://www.vionfoodgroup.com/de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_e8fea1f861dac3a67683,VOSS Fluid GmbH,Wipperfürth,http://www.voss.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_76db7789935ea160ea42,Vector Informatik GmbH,Stuttgart,http://www.vector-informatik.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_9683219a084abda1d73a,Verband Deutscher Highland Cattle Züchter und Halter e.V. (VDHC),Kiel,http://www.highland.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_16a2935e528d1ae9535c,Verband Deutscher Piemonteser Fleischrindzüchter und Halter e.V.,Kempenich/OT Engeln,http://www.piemonteser-fleischrind.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_f0504132291614b9128b,Verband Deutscher Rotviehzüchter,Neumünster,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_ed905a77a31c74776eb4,Verband Deutscher Simmentalzüchter e.V. (VDSimmental),Halle,http://www.simmental.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_6c98b8099074c7bbe2d0,Verband Deutscher Welsh Black Züchter und Halter e.V.,Egestorf,http://www.welshblack.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_0453846b3c0f574f921d,Verband Deutscher Zwergzebuzüchter und -halter e.V.,Gemünden/Wohra-Lehnhausen,http://zwergzebu-bundesverband.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_6a6756b1899f115e0329,Verband Schleswig-Holsteiner Fleischrinderzüchter e.V.,Kiel,http://www.fleischrinderzucht.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_65c2b860672c13fcb85c,Verband der Agrargewerblichen Wirtschaft (VdAW) e.V.,Stuttgart,http://www.vdaw.de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_b3a10466bbfbbd5ea63b,Verband der Deutschen Charolaiszüchter e.V.,Verden,http://www.charolais-zuechter.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_7b1df4ce450d3a7c3f30,Verband für Schweineproduktion Rheinland-Pfalz-Saar e.V.,Idenheim,http://www.vsr-svg.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_da2ff2d5410aca4d8ab6,Verein Ostfriesischer Stammviehzüchter Zucht- und Absatzgenossenschaft,Leer,http://www.vost.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_c54782e66826ba86c397,Vereinigte Informationssysteme Tierhaltung w.V. (vit),Verden,http://www.vit.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_83e1d38b33f1bee33582,Vereinigte Kreidewerke Dammann GmbH & Co. KG,Söhlde,http://www.dammann.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_3b965f3ad2b772f3a7c1,Vereinigung der Erzeugergemein- schaften für Vieh u. Fleisch e.V. (VEZG),Oldenburg,http://www.vezg.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_52318602977eec4aea62,Verla-Pharm Arzneimittel GmbH & Co. KG,Tutzing,http://www.nupafeed.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_33014b1ccbedcea94ca4,Vermarktungsgemeinschaft für Zucht- und Nutzvieh ZNVG eG,Neumünster,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_7f817206ce71aed856a1,Vetoquinol GmbH,,https://www.vetoquinol.de/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_054a3186d3de74c1c54d,Veyx Pharma GmbH,Schwarzenborn,https://www.veyx.de/,Animal Health & Veterinary Pharmaceuticals | Cattle and Pig Value Chain - Subsector Unverified,BfT Member Directory | BRS Member Directory
+COMP_4e07eb10a94183f96a69,Vieherzeuger-Gemeinschaft e.G.(VG),Stuttgart,http://www.vz-gmbh.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_81d3725db2d1b80bee92,Vieherzeuger-Gemeinschaft eG,Stuttgart,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_a44c9567388fcc6e0009,Viehvermarktung Münsterland eG,Lüdinghausen,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_e5b7027ebc9601f0b7e0,Viehvermarktungsgemeinschaft Aller-Weser-Hunte eG,Asendorf,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_a9ee702cb549527f352f,Viehvermarktungsgenossenschaft Bayern eG,Waldkraiburg,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_b4f5b4b987f39e96a2e4,Viehvermarktungsgenossenschaft Nordbayern eG,Kitzingen,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_c2d246c746de048f4d17,Viehverwertungsgenossenschaft Werne eG,Werne,,Livestock Production and Marketing,DRV Livestock and Meat Committee
+COMP_6815c69e4ac6b307df3d,Viehzentrale Beesten Meppen Lathen eG eG,Beesten,,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_4216dbbb891a5ffae1d4,Vilstalmühle GmbH & Co. KG,Vilsbiburg,http://www.balk.net,Animal Feed and Nutrition,DVT Member Directory
+COMP_2cad9bc30002bec95dea,Vion GmbH,Buchloe,https://www.vionfoodgroup.com/de,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_d97df6f2e70e868f3f37,Virbac Tierarzneimittel GmbH,,https://de.virbac.com/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_a764b48c6fa50da2d94f,Vogelsang GmbH & Co. KG,Essen,http://www.vogelsang.info,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_2f0c765ea4274721cd88,Vogtlandmilch GmbH,Plauen,http://www.vogtlandmilch.de,Dairy Processing and Manufacturing,MIV Milchindustrie-Verband Member Directory
+COMP_384183ddc1d5592d3ee3,Vossko GmbH & Co. KG,Ostbevern,http://www.vossko.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_a4f91bc14b6a5cbcfd37,VzF GmbH Verein z.Förderung d.bäuerl. Veredlungswirtschaft,Uelzen,http://www.vzf-gmbh.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_f025319484e99cbf3d35,Väderstad GmbH,Werder,http://www.vaderstad.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_9c881ed882a9ee8cf10a,Völkel Mikroelektronik GmbH,Karlsruhe,,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_2dc995ab9181948a483b,WABCO Fahrzeugsysteme GmbH,Hannover,http://www.wabco-auto.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_97ac4cedf277c4da6b50,WASGAU Metzgerei GmbH,Pirmasens,http://www.wasgau.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_c26b92e87973a2af70fb,WB Qualitätsfutterwerk GmbH,Windsbach,http://www.qualitaetsfutterwerk.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_b03bccc1f1f28d06d865,WBG-Pooling GmbH & Co. KG,Damme-Osterfeine,https://wbg-pooling.eu/,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_82fd00f082940a8693f3,WEBER-HYDRAULIK GMBH,Güglingen,http://www.weber-hydraulik.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_3cb6493cc1836aba827f,WELDING GmbH & Co. KG,Hamburg,http://www.welding.eu,Animal Feed and Nutrition,DVT Member Directory
+COMP_f2fe7c04cc383e9fc898,WIKA Alexander Wiegand SE & Co. KG,Klingenberg,http://www.wika.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_19c43130abcf4171c773,WURST-BASAR Konrad Hinsemann GmbH,Ronnenberg,http://www.wurst-basar.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_7b2484eed807fed5f7aa,Wacker Neuson SE,München,http://www.wackerneuson.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_04f7aa5c4448524199ef,Wagyu Verband Deutschland e.V.,Wiesbaden,http://www.wagyuverband.com/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_b6eb9f51c884760ab537,Walterscheid GmbH,Lohmar,http://www.walterscheid.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_b15ae47d2d0d095f5e12,Warmsener Spezialitäten GmbH,Warmsen,http://www.warmsener.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_3742ffb4825dd1fdc872,Weidemann GmbH,Korbach,http://www.weidemann.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_8bd62af0e0d029f45261,Weidemark Fleischwaren GmbH & Co. KG,Sögel,http://www.weidemark.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_c0c778d5aedae8eddf8b,Weilheimer Zuchtverbände e.V.,Weilheim,http://www.zuchtverband-weilheim.de/,Cattle Breeding | Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory | ASR Cattle Breeding Member Directory
+COMP_e245ddb5a6ce47a31ebd,Weissachmühle <br> M. Köberle GmbH & Co. KG,Oberstaufen,http://www.weissachmuehle.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_71baea2a408fec66e974,Wendelstein Käsewerk GmbH,Bad Aibling,http://www.bergader.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_6bfd8d0e226ab35ce75e,Werner Schulte GmbH & Co. KG Lastruper Wurstwaren,Lastrup,http://www.schulte-lastrup.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_3590a239040de2412756,Westfleisch Erkenschwick GmbH,Oer-Erkenschwick,http://www.westfleisch.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_64fb4231f2a01442edf7,Westfleisch SCE m.b.H.,Münster,http://www.westfleisch.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_43022e48b907df6c6b73,Westfleisch SCE mbH,Münster,http://www.westfleisch.de,Livestock Production and Marketing | Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering | DRV Livestock and Meat Committee
+COMP_249a7c41473ada65dbaf,Westfälische Fleischwarenfabrik Stockmeyer GmbH,Sassenberg/Füchtorf,http://www.stockmeyer.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_a502dbfeab95a5516bd2,Wibbeke GmbH & Co. KG,Lichtenau-Grundsteinheim,http://www.wibbeke-gmbh.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_24352fcdc24aba58ed8d,Wiedenmann GmbH,Rammingen,http://www.wiedenmann.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_0d079f4734fa9fabaa85,Wiesenhof Geflügelwurst GmbH & Co. KG,Rietberg,http://www.wiesenhof.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_805934806c4b1204e1a3,Wilhelm Brandenburg GmbH & Co. OHG,Frankfurt,http://www.wilhelmbrandenburg.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_a93a6837715d827a0ad0,Wilhelm Krampe GmbH & Co. KG,Coesfeld-Lette,http://www.muehle-krampe.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_bc6f6fb0e0d223ff9c80,Wilhelm Stelter Landhandel e.K.,Scholen,,Animal Feed and Nutrition,DVT Member Directory
+COMP_160cbacd241bc7cf2775,Wilhelm Stoll Maschinenfabrik GmbH,Lengede,http://www.stoll-germany.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_4fb37677efc851d63ad8,Wilhelm Ströh jun. GmbH & Co. KG,Pansdorf,http://www.stroeh-hobbersdorf.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_bf3f587fa90531107d36,Willms Fleisch GmbH,Ruppichteroth,http://www.willms-fleisch.de,Meat Processing and Manufacturing | Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering | BVWS Meat Processing Member Directory
+COMP_6886c349bdeab50048a1,Willy Siemes und Sohn GmbH & Co. KG,Viersen,http://www.willysiemes.de,Meat Processing and Slaughtering,VDF Meat Industry Member Directory - Slaughtering
+COMP_d43a1e316ce9c341ca75,Windau GmbH & Co. KG Westfälische Wurst- & Schinkenspezialitäten,Harsewinkel,http://www.windau.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_e44f0c53f8b2d000efc1,Wirtschaftsgenossenschaft deutscher Tierärzte eG (WdT),,https://www.wdt.de/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_70d617af83e367cefa2e,Witt Agrar GmbH,Hamburg,,Animal Feed and Nutrition,DVT Member Directory
+COMP_4154b714a09d994e6d5a,Woelke Holsteinische Wurstmacherei GmbH,Großharrie,http://www.woelke-sh.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_78f0de4696113e374441,Wolf Essgenuss GmbH Standort Schwandorf,Schwandorf,http://www.wolf-essgenuss.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_d0145d4f4f2c5cf5a6ad,Worlée NaturProdukte GmbH,Hamburg,http://www.worlee.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_6a7774aec3786287373b,Wroge KG,Wietzendorf,,Livestock Farming - Relevance Unverified,IMA Livestock Production Directory
+COMP_7a1113982630ded72c77,Wulfa-Mast GmbH <br> Mischfutterwerk,Dinklage-Wulfenau,http://www.wulfa.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_6e9394b1d704aec4e2c1,Wübken GmbH & Co. KG,Billerbeck,http://www.wuebken.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_a8e50cea81a01b7b1925,Würzburger Milchwerke GmbH,Würzburg,http://www.bmi-eg.com,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_17545d456634293678e0,Xaver Scheule GmbH <br> LEXA-Tierernährung,Kirchheim,http://www.lexa-futter.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_33ecbda2be8b05d2771e,Yokohama TWS Germany GmbH,Erbach,http://www.yokohama-tws.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_49a144a48965f5d852d1,ZF Friedrichshafen AG,Friedrichshafen,https://www.zf.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_fe237e69be43ac06f329,ZMC-Europe GmbH,Hamburg,http://www.zmc-europe.com/,Animal Feed and Nutrition,DVT Member Directory
+COMP_005bb9c71f267f91d13f,Zentis Fruchtwelt GmbH & Co. KG,Aachen,http://www.zentis.de,Dairy Technology and Services,MIV Milchindustrie-Verband Member Directory
+COMP_bf0573fc8bbff9962fbe,Zirn-Mühle OHG,Ebenweiler,,Animal Feed and Nutrition,DVT Member Directory
+COMP_e1cd6e5bbfad90d8ae75,Zoetis Deutschland GmbH,Berlin,http://www.zoetis.com,Animal Feed and Nutrition | Animal Health & Veterinary Pharmaceuticals | Cattle and Pig Value Chain - Subsector Unverified,DVT Member Directory | BfT Member Directory | BRS Member Directory
+COMP_5d430928919573dc6b9f,Zott SE & Co. KG,Mertingen,http://www.zott.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_763138e29f6e97ec050a,Zuchtverband Fleckvieh in Niederbayern,Osterhofen,http://www.zv-niederbayern.bayern.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_6594951283bc071526a2,Zuchtverband für Fleckvieh Obb.-Ost,Mühldorf,https://www.zuchtverband-muehldorf.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_c3f148b81f77662faeca,Zuchtverband für Fleckvieh Pfaffenhofen/Ilm Oberbayern e.V.,Pfaffenhofen,https://www.zv-pfaffenhofen.de,Cattle Breeding | Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory | ASR Cattle Breeding Member Directory
+COMP_0be1fd240a188078ba4b,Zuchtverband für Fleckvieh in Niederbayern,Osterhofen,https://www.zuchtverband-osterhofen.de/,Cattle Breeding,ASR Cattle Breeding Member Directory
+COMP_a8e35ff8faec371a9539,Zuchtverband für Fleckvieh in Oberbayern-Ost,Mühldorf,https://www.zuchtverband-muehldorf.de/,Cattle Breeding,ASR Cattle Breeding Member Directory
+COMP_07d1ca29f3cc37f419a5,Zuchtverband für das schwäbische Fleckvieh e.V.,Wertingen,https://www.zv-wertingen.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_fa34c8786ce0b782d580,Zuchtverband für obb. Alpenfleckvieh e.V.,Miesbach,http://www.zuchtverband-miesbach.com,Cattle Breeding,ASR Cattle Breeding Member Directory
+COMP_22e6c368527bf6e8a9c7,Zuchtverband für oberbayerisches Alpenfleckvieh Miesbach e.V.,Miesbach,http://www.zuchtverband-miesbach.com/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_ec4aadb57a549b6933b7,Zunhammer GmbH,Traunreut,http://www.zunhammer.de,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_48477bf5949b328c05af,Zweckverband II für künstl. Besamung der Haustiere,Greifenberg,http://www.greifenberg-genetics.de/,Cattle Genetics and Reproduction | Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory | ASR Cattle Breeding Member Directory
+COMP_931ef12ee237c8f08c38,Züchtervereinigung Schwäbisch Hällisches Schwein e.V.,Wolpertshausen,http://www.besh.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_71df287d4aeb0ca88de6,agritura Raiffeisen eG,Ladbergen,https://www.agritura-raiffeisen.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_a859a33d6383c542f60c,agro Food Solution GmbH,Werder/Havel,http://www.agro-food-solution.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_0792669e977fd29ab007,agron GmbH & Co. KG,Sögel,http://www.agron-ems.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_70d690169529a8643ee9,agrosom GmbH,Mölln,http://www.agrosom.de,Animal Feed and Nutrition | Cattle and Pig Value Chain - Subsector Unverified,DVT Member Directory | BRS Member Directory
+COMP_d592a12fee4272c19e01,agrotop GmbH,Obertraubling,http://www.agrotop.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ae7932b00d11fb4cd3b4,almapharm GmbH + Co. KG,Wildpoldsried,http://www.almapharm.de/,Animal Feed and Nutrition,DVT Member Directory
+COMP_3e3b587f8e025b6a2bc7,aniMedica GmbH a LIVISTO Company,,https://www.livisto.de/de/livisto/,Animal Health & Veterinary Pharmaceuticals,BfT Member Directory
+COMP_300b96694eba88afde08,animalPro nutrition GmbH,Bad Oldesloe,http://www.animalpro-nutrition.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_18ef76733b40712bafa4,b-plus mobile control GmbH,Deggendorf,http://www.b-plus.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_ff9f4c6f72f073b328a1,beweka Kraftfutterwerk GmbH,Heilbronn,http://www.beweka-Kraftfutter.com,Animal Feed and Nutrition,DVT Member Directory
+COMP_4973e2f8ac93940af981,bosch Tiernahrung GmbH & Co.,Blaufelden,http://www.bosch-tiernahrung.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_ba2800c5fd868578c8de,definitiv! digital services GmbH,Münster,http://www.definitiv-ds.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
+COMP_3ae338f56f499d7fcea3,extra-vit GmbH,Möhnesee-Delecke,http://www.extra-vit.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_7ecb19fd6ff59ac2bce1,feldhues fun foods GmbH,Metelen,http://www.feldhues-group.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_6cce4e7bd7677008b0b9,frischli Milchwerk Weißenfels GmbH,Weißenfels,http://www.frischli.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_6037c0f881944dbbd49b,frischli Milchwerke GmbH,Rehburg-Loccum,http://www.frischli.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_0869ba63a45a1aea44d8,frischli Milchwerke GmbH & Co. Huber oHG,Eggenfelden,http://www.frischli.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_d9c5b8ceae30380b6b0d,frostkrone Tiefkühlkost GmbH,Rietberg,http://www.frostkrone.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_df262b387258cbeb6b0e,garmo AG,Stuttgart,http://www.garmo.de,Dairy Value Chain - Subsector Unverified,Export-Union Dairy Member Directory
+COMP_9e35b0f81499a0908ba7,ifm electronic gmbh,Essen,http://www.ifm-electronic.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_6d8f76b93b9d0d9fc020,iwis antriebssysteme GmbH & Co. KG,München,http://www.iwis.com,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_2638c80fac781de9a625,matev GmbH,Langenzenn,http://www.matev.eu,Agricultural Machinery - Relevance Unverified,VDMA Landtechnik Member Directory
+COMP_bb0d8a1e5a0702ea04c0,mischau Fleischwaren GmbH & Co. KG,Berlin,http://www.mischau.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_3d4817c33b29e337d0bc,ssniff Spezialdiäten GmbH,Soest,http://www.sniff.de,Animal Feed and Nutrition,DVT Member Directory
+COMP_9560523c11de7d4a5b01,sunval Nahrungsmittel GmbH,Waghäusel,http://www.sunval.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_7e11566c931395874d07,wheyco GmbH,Altentreptow,http://www.wheyco.de,Dairy Processing and Manufacturing | Dairy Value Chain - Subsector Unverified,MIV Milchindustrie-Verband Member Directory | Export-Union Dairy Member Directory
+COMP_f99380e0418018b0dfab,zur Mühlen Gruppe ZUR MÜHLEN Services GmbH & Co. KG,Böklund,http://www.zurmuehlengruppe.de,Meat Processing and Manufacturing,BVWS Meat Processing Member Directory
+COMP_b8fab9724dd03d7bc6c4,Ökologische Tierzucht gGmbH,Augsburg,https://www.oekotierzucht.de/,Cattle and Pig Value Chain - Subsector Unverified,BRS Member Directory
