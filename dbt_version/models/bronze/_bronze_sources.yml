@@ -1,0 +1,14 @@
+
+version: 2
+
+sources:
+  - name: bronze
+    database: workspace
+    schema: animal_farming_raw
+    tables:
+      - name: discovery_candidates
+        columns:
+          - name: id
+            data_tests:
+              - unique
+              - not_null
