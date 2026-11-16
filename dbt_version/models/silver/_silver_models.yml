@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: silver_discovery_candidates
+    description: >
+      Cleaned discovery candidates: one row per company per source directory.
+      Text trimmed, postcodes fixed to 5 digits, sector split into name and
+      verification flag, contact fields normalised for matching.
+    columns:
+      - name: id
+        data_tests:
+          - unique
+          - not_null
+      - name: company
+        data_tests:
+          - not_null
+      - name: sector
+        description: Sector without the "Unverified" suffix.
+        data_tests:
+          - not_null
+      - name: is_sector_verified
+        description: False when the source only gave a placeholder sector.
+      - name: postal_code
+        description: 5-digit German postcode, NULL when missing or invalid.
+      - name: website_domain
+        description: Lower-case domain without protocol, www or path.
+      - name: email
+        description: Lower-case email, NULL when not a valid address.
+      - name: phone_normalized
+        description: Phone number reduced to digits and a leading +.
+      - name: source_name
+        data_tests:
+          - not_null
+      - name: collected_at
+        data_tests:
+          - not_null

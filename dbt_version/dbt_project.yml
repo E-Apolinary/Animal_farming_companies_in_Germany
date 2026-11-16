@@ -1,10 +1,7 @@
- 
 name: 'animal_farming_companies'
+profile: default
 version: '1.0.0'
 config-version: 2
-
-# This setting configures which "profile" dbt uses for this project.
-profile: 'default'
 
 # These configurations specify where dbt should look for different types of files.
 # The `model-paths` config, for example, states that models in this project can be
@@ -33,14 +30,8 @@ clean-targets:         # directories to be removed by `dbt clean`
 # using the `{{ config(...) }}` macro.
 
 models:
- 'animal_farming_companies':
-    # Applies to all files under models/example/
-  models:
-   animal_farming_companies:
+  animal_farming_companies:
     silver:
-      +schema: animal_farming_raw
       +materialized: table
     gold:
-      +schema: animal_farming_raw
       +materialized: table
-
