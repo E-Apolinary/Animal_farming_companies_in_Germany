@@ -5,7 +5,9 @@ models:
     description: >
       Cleaned discovery candidates: one row per company per source directory.
       Text trimmed, postcodes fixed to 5 digits, sector split into name and
-      verification flag, contact fields normalised for matching.
+      verification flag, contact fields normalised for matching. Only
+      technical duplicates (same source, same company, same city) are removed;
+      merging the same company across sources is done in gold.
     columns:
       - name: id
         data_tests:
@@ -20,11 +22,23 @@ models:
           - not_null
       - name: is_sector_verified
         description: False when the source only gave a placeholder sector.
+      - name: city
       - name: postal_code
         description: 5-digit German postcode, NULL when missing or invalid.
+      - name: address
       - name: website
         description: Lower-case domain without protocol, www or path.
       - name: email
         description: Lower-case email, NULL when not a valid address.
       - name: phone
         description: Phone number reduced to digits and a leading +.
+      - name: description
+        description: Free-text description from the source directory.
+      - name: source_name
+        description: Directory the row was collected from.
+        data_tests:
+          - not_null
+      - name: source_url
+        description: Page the row was collected from.
+      - name: collected_at
+        description: When the row was scraped.
