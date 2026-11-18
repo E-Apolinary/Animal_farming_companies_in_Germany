@@ -1,0 +1,60 @@
+[1mdiff --cc dbt_version/dbt_project.yml[m
+[1mindex 8e6b32c,8644b76..0000000[m
+[1m--- a/dbt_version/dbt_project.yml[m
+[1m+++ b/dbt_version/dbt_project.yml[m
+[36m@@@ -1,14 -1,11 +1,24 @@@[m
+[32m++<<<<<<< HEAD[m
+[32m +# dbt_project.yml[m
+[32m++=======[m
+[32m++>>>>>>> dbt-models[m
+  name: 'animal_farming_companies'[m
+[32m+ profile: default[m
+  version: '1.0.0'[m
+  config-version: 2[m
+  [m
+[32m++<<<<<<< HEAD[m
+[32m +dbt-cloud:[m
+[32m +  project-id: 70506183178844[m
+[32m +[m
+[32m +# This setting configures which "profile" dbt uses for this project.[m
+[32m +profile: 'default'[m
+[32m +[m
+[32m++=======[m
+[32m+ # These configurations specify where dbt should look for different types of files.[m
+[32m+ # The `model-paths` config, for example, states that models in this project can be[m
+[32m+ # found in the "models/" directory. You probably won't need to change these![m
+[32m++>>>>>>> dbt-models[m
+  model-paths: ["models"][m
+  analysis-paths: ["analyses"][m
+  test-paths: ["tests"][m
+[36m@@@ -21,11 -18,20 +31,18 @@@[m [mclean-targets[m
+    - "target"[m
+    - "dbt_packages"[m
+  [m
+[31m -[m
+[31m -# Configuring models[m
+[31m -# Full documentation: https://docs.getdbt.com/docs/configuring-models[m
+[31m -[m
+[31m -# In dbt, the default materialization for a model is a view. This means, when you run [m
+[31m -# dbt run or dbt build, all of your models will be built as a view in your data platform. [m
+[31m -# The configuration below will override this setting for models in the example folder to [m
+[31m -# instead be materialized as tables. Any models you add to the root of the models folder will [m
+[31m -# continue to be built as views. These settings can be overridden in the individual model files[m
+[31m -# using the `{{ config(...) }}` macro.[m
+[31m -[m
+  models:[m
+    animal_farming_companies:[m
+[32m++<<<<<<< HEAD[m
+[32m +    bronze:[m
+[32m +      +materialized: view[m
+[32m +    silver:[m
+[32m +      +materialized: table[m
+[32m +    gold:[m
+[31m-       +materialized: table[m
+[32m++      +materialized: table[m
+[32m++=======[m
+[32m+     silver:[m
+[32m+       +materialized: table[m
+[32m+     gold:[m
+[32m+       +materialized: table[m
+[32m++>>>>>>> dbt-models[m

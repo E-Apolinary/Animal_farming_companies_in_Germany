@@ -1,0 +1,60 @@
+version: 2
+
+models:
+  - name: gold_companies
+    description: >
+      Final deduplicated company list, one row per real company. Listings from
+      different directories are merged on a normalised company name (same rule
+      as scripts/20_resolve_companies.py). The name comes from the first
+      listing; contact fields come from the first listing that has a value
+      (later sources fill gaps, never overwrite). Sectors and sources are
+      combined from all listings.
+    columns:
+      - name: company_id
+        description: >
+          'COMP_' + first 20 hex characters of SHA-256(normalised name).
+          Stable across runs and identical to the Python pipeline's IDs.
+        data_tests:
+          - unique
+          - not_null
+      - name: company_name
+        description: Name from the first listing (lowest silver id).
+        data_tests:
+          - not_null
+      - name: city
+      - name: postal_code
+        description: 5-digit German postcode.
+      - name: address
+      - name: website
+        description: Bare domain, e.g. "example.de".
+      - name: email
+      - name: phone
+      - name: description
+      - name: sectors
+        description: All sectors the company was listed under, joined with " | ".
+      - name: is_sector_verified
+        description: True when at least one source gave a real sector, not a placeholder.
+      - name: sources
+        description: All directories that list the company, joined with " | ".
+        data_tests:
+          - not_null
+      - name: source_count
+        description: Number of distinct directories listing the company.
+        data_tests:
+          - not_null
+      - name: silver_ids
+        description: Lineage, the silver_discovery_candidates ids merged into this row.
+      - name: listing_count
+        description: Number of silver listings merged into this company.
+      - name: first_collected_at
+        description: Earliest scrape time across all listings.
+      - name: last_collected_at
+        description: Latest scrape time across all listings.
+      - name: is_multi_source
+        description: True when the company is confirmed by 2 or more directories.
+      - name: shares_website
+        description: >
+          True when another company has the same website domain. These are
+          often subsidiaries or brands and should be reviewed manually.
+        data_tests:
+          - not_null

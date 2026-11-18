@@ -1,0 +1,36 @@
+version: 2
+
+sources:
+  - name: bronze
+    description: Raw uploads of the Python pipeline outputs.
+    database: workspace            # catalog
+    schema: animal_farming_raw
+    tables:
+      - name: discovery_candidates
+        identifier: discovery_candidates   # physical table name
+        description: >
+          One row per company per source directory
+          (data/processed/discovery_candidates.csv).
+        columns:
+          - name: id
+            data_tests:
+              - unique
+              - not_null
+          - name: company
+            data_tests:
+              - not_null
+          - name: sector
+          - name: city
+          - name: postal_code
+          - name: address
+          - name: website
+          - name: email
+          - name: phone
+          - name: description
+          - name: source_name
+            data_tests:
+              - not_null
+          - name: source_url
+            data_tests:
+              - not_null
+          - name: collected_at
