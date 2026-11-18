@@ -101,7 +101,39 @@ normalised as (
         -- e.g. "+49 (0)30 123-45" -> "+4903012345"
         nullif(regexp_replace(phone, '[^0-9+]', ''), '')        as phone,
 
-        description,
+        -- description without contact details. Some directories (mainly DVT)
+        -- start the text with the contact block from their web page, e.g.
+        --   "Tel: +49 4504 8009-0 E-Mail zur Website | Die Firma ... ist ..."
+        -- which becomes
+        --   "Die Firma ... ist ..."
+        -- Phone and website are already in their own columns, so nothing is lost.
+        --
+        --   1. strip the leading block. It may only consist of these pieces,
+        --      in any order:
+        --        [\s\p{Z}|]               spaces (incl. non-breaking) and "|"
+        --        Ansprechpartner[^|]*     contact person, up to the next "|"
+        --        Tel / Tel. / Telefon:    phone label   (also Mobil:, Fax:)
+        --        [+0][0-9 ()/-]*          phone number, e.g. "+49 (0) 203 7297-0"
+        --        und -?[0-9]+             extension, e.g. "und -608"
+        --        E-Mail / Email / Mail    email link label
+        --        zur Website / Website    website link label (any case)
+        --      A number must start with + or 0, so a year like "1872 ..." at
+        --      the start of a real description is never removed.
+        --   2. remove leftover "zur Website" link labels inside the text
+        --   3. remove trailing spaces / "|"
+        --   4. collapse repeated spaces into one
+        --   5. a description that was only contact details becomes NULL
+        nullif(
+            regexp_replace(                                                         -- 4
+            regexp_replace(                                                         -- 3
+            regexp_replace(                                                         -- 2
+            regexp_replace(description,                                             -- 1
+                '^([\\s\\p{Z}|]|Ansprechpartner[^|]*|Tel[a-z]*[.:]*|Mobil[.:]*|Fax[.:]*'
+                || '|[+0][0-9 ()/-]*|und -?[0-9]+|E-?[Mm]ail|Mail|(?i:zur website)|Website)*', ''),
+                '(?i)[\\s\\p{Z}]*zur website', ''),
+                '[\\s\\p{Z}|]+$', ''),
+                '[\\s\\p{Z}]{2,}', ' '),
+        '')                                                     as description, -- 5
 
         -- where the row came from; gold uses these to count and list sources
         source_name,
