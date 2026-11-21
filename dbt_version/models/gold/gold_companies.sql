@@ -54,17 +54,12 @@ with listings as (
 -- identical to the IDs produced by the Python pipeline.
 -- -----------------------------------------------------------------------------
 keyed as (
-
     select
         *,
-        trim(regexp_replace(
-            regexp_replace(lower(company), '[^\\p{L}\\p{N}_\\s]', ' '),
-            '\\s+', ' '
-        ))                                                      as name_key
-
+        {{ name_key('company') }}   as name_key
     from listings
-
 ),
+
 
 with_ids as (
 

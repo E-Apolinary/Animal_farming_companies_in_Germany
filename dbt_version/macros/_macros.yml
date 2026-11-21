@@ -1,0 +1,8 @@
+version: 2
+macros:
+  - name: name_key
+    description: "Normalised company name used to match listings across sources (mirrors scripts/20_resolve_companies.py)."
+    arguments:
+      - name: column
+        type: string
+        description: "Column holding the raw company name."
